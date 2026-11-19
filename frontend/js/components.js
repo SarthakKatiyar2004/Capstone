@@ -1,0 +1,19 @@
+// ---- tables
+const T={};
+function mkT(id,o){const st=S.t[id]??={q:'',k:o.sk||null,d:o.sd??-1,p:0,n:o.size||10,open:{}};
+const t=T[id]={cur:[],all(){let r=o.rows();if(st.q){const q=st.q.toLowerCase();r=r.filter(x=>o.hay(x).toLowerCase().includes(q))}
+if(st.k){const c=o.cols.find(c=>c.k==st.k),v=c.v||(x=>x[c.k]);r=[...r].sort((a,b)=>{const x=v(a),y=v(b);if(x==null)return 1;if(y==null)return -1;return(typeof x=='string'?x.localeCompare(y):x-y)*st.d})}return r},
+html(){return`<div class="tb"><input type="text" placeholder="${o.ph||'Search'}" value="${esc(st.q)}" oninput="T['${id}'].q(this.value)" aria-label="Search table">${o.tools||''}<span class="sp"></span>${o.exp_csv?`<button class="btn" onclick="T['${id}'].csv()">${ic('dl')} Export CSV</button>`:''}${o.add||''}</div><div id="${id}-b"></div>`},
+q(v){st.q=v;st.p=0;t.draw()},sort(k){st.d=st.k==k?-st.d:(o.cols.find(c=>c.k==k).num?-1:1);st.k=k;t.draw()},pg(d){st.p+=d;t.draw()},size(v){st.n=+v;st.p=0;t.draw()},
+row(i){o.onRow&&o.onRow(t.cur[i])},menu(e,i){showMenu(e,o.actions(t.cur[i]))},tg(e,i){e.stopPropagation();const k=o.id(t.cur[i]);st.open[k]=!st.open[k];t.draw()},csv(){csv(o.exp_csv,t.all(),o.csvCols||o.cols.filter(c=>c.k).map(c=>({l:c.l,k:c.k,x:c.v})))},
+draw(){const el=$('#'+id+'-b');if(!el)return;if(!st.ready){el.innerHTML=Array(6).fill('<div class="sk"></div>').join('');setTimeout(()=>{st.ready=1;t.draw()},200);return}
+const all=t.all(),mx=Math.max(0,Math.ceil(all.length/st.n)-1);st.p=Math.min(st.p,mx);const pg=all.slice(st.p*st.n,(st.p+1)*st.n);t.cur=pg;
+if(!all.length){el.innerHTML=`<div class="em"><b>${o.emptyT||'No matching records'}</b>${o.emptyM||'Try a different search or reset the filters.'}<div style="margin-top:10px"><button class="btn" onclick="resetF()">Reset filters</button></div></div>`;return}
+const hd=o.cols.map(c=>`<th class="${c.k?'s':''} ${c.num?'num':''}" ${c.k?`onclick="T['${id}'].sort('${c.k}')"`:''}>${c.l}${st.k==c.k?(st.d>0?' ▲':' ▼'):''}</th>`).join('');
+const nc=o.cols.length+(o.exp?1:0)+(o.actions?1:0);
+const rows=pg.map((r,i)=>{const open=o.exp&&st.open[o.id(r)];return`<tr class="r" onclick="T['${id}'].row(${i})">${o.exp?`<td style="width:28px"><button class="ib" onclick="T['${id}'].tg(event,${i})" aria-label="Expand row">${ic(open?'cd':'cr')}</button></td>`:''}${o.cols.map(c=>`<td class="${c.num?'num':''}">${c.r?c.r(r):esc(r[c.k])}</td>`).join('')}${o.actions?`<td style="width:36px" onclick="event.stopPropagation()"><button class="ib" onclick="T['${id}'].menu(event,${i})" aria-label="Row actions">${ic('dots')}</button></td>`:''}</tr>${open?`<tr class="ex"><td colspan="${nc}">${o.exp(r)}</td></tr>`:''}`}).join('');
+el.innerHTML=`<div class="tw"><table><thead><tr>${o.exp?'<th></th>':''}${hd}${o.actions?'<th></th>':''}</tr></thead><tbody>${rows}</tbody></table></div><div class="pf"><span>${st.p*st.n+1}–${st.p*st.n+pg.length} of ${fmt(all.length)}</span><span style="display:flex;gap:6px;align-items:center">Rows <select onchange="T['${id}'].size(this.value)">${[10,25,50].map(n=>`<option ${n==st.n?'selected':''}>${n}</option>`).join('')}</select><button class="btn" ${st.p?'':'disabled'} onclick="T['${id}'].pg(-1)">Previous</button><button class="btn" ${st.p<mx?'':'disabled'} onclick="T['${id}'].pg(1)">Next</button></span></div>`}};return t}
+// ---- charts
+const CH={};function chart(id,cfg){CH[id]?.destroy();const c=$('#'+id);if(!c)return;const cs=getComputedStyle(document.documentElement),C=Chart.defaults;C.color=cs.getPropertyValue('--mu').trim();C.borderColor=cs.getPropertyValue('--bd').trim();C.font.family='Inter,system-ui,sans-serif';C.font.size=11;cfg.options={responsive:true,maintainAspectRatio:false,...cfg.options};CH[id]=new Chart(c,cfg)}
+const col={pr:'#3b5b8c',st:'#8ea8cf',neg:'#c0584f',neu:'#d2a24c',pos:'#4f9a6b',gy:'#9aa4b2'};
+const cv=(id,h)=>`<div class="chw" ${h?`style="height:${h}px"`:''}><canvas id="${id}"></canvas></div>`;

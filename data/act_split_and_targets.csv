@@ -1,0 +1,797 @@
+﻿Research_ID,Title,date,domain,act_type,split,n_relevant,net_sentiment,dominant,key_in_train,shared_with_train,max_sim_to_train,strict
+RESEARCH-00654,"The Assam Entry Tax (Third Amendment) Act, 2009",2010-01-04,"Finance, tax & budget",Amendment,train,214.0,-0.21495327102803738,Neutral,False,,,False
+RESEARCH-00820,"The Bihar Land Disputes Resolution Act, 2009",2010-01-08,"Land, housing & urban development",Principal Act (other),train,41.0,-0.4390243902439025,Negative,False,,,False
+RESEARCH-00220,Legal Metrology Act 2009,2010-01-13,"Law, justice & policing",Principal Act (other),train,38.0,-0.47368421052631576,Negative,False,,,False
+RESEARCH-00222,"Legal metrology Act,2009",2010-01-13,"Law, justice & policing",Principal Act (other),train,101.0,-0.02970297029702973,Neutral,False,,,False
+RESEARCH-01529,"The Legal Metrology Act, 2009",2010-01-13,"Law, justice & policing",Principal Act (other),train,963.0,0.09345794392523366,Positive,False,,,False
+RESEARCH-02317,"The Uttarakhand Compulsory Registration of Marriage Act,",2010-03-26,Social groups & identity,Principal Act (other),train,48.0,-0.39583333333333337,Negative,False,,,False
+RESEARCH-02406,"The West Bengal Finance Act, 2010",2010-03-31,"Finance, tax & budget",Appropriation / budget,train,354.0,-0.443502824858757,Negative,False,,,False
+RESEARCH-01276,"The Indian Institute of Teacher Education, Gujarat Act, 2010",2010-04-01,Education & universities,Establishment of an institution,train,232.0,0.04741379310344829,Positive,False,,,False
+RESEARCH-02072,The Right of Children to Free and Compulsory Education Act 2009,2010-04-01,Education & universities,Principal Act (other),train,42.0,0.14285714285714285,Positive,False,,,False
+RESEARCH-00757,"The Azim Premji University Act, 2010",2010-04-07,Education & universities,Establishment of an institution,train,36.0,-0.3611111111111111,Negative,False,,,False
+RESEARCH-00044,"Bihar Finance Act, 2010",2010-04-09,"Finance, tax & budget",Appropriation / budget,train,360.0,-0.2861111111111111,Negative,False,,,False
+RESEARCH-00785,The Bihar Agricultural University Act 2010,2010-04-16,Education & universities,Establishment of an institution,train,143.0,-0.2517482517482517,Neutral,False,,,False
+RESEARCH-00788,"The Bihar Agriculture Land (Conversion for Non-Agriculture Purposes) Act, 2010",2010-04-16,"Agriculture, environment & water",Principal Act (other),train,131.0,-0.36641221374045807,Negative,False,,,False
+RESEARCH-01605,"The Maharashtra State Security Corporation Act, 2010",2010-04-19,"Land, housing & urban development",Establishment of an institution,train,49.0,-0.4897959183673469,Negative,False,,,False
+RESEARCH-00453,"The ARUNAChal PRADESH ENTRY TAX ACT, 2010",2010-04-20,"Finance, tax & budget",Principal Act (other),train,171.0,-0.5380116959064327,Negative,False,,,False
+RESEARCH-00559,The Arunachal Pradesh Education Act 2010,2010-04-20,Education & universities,Principal Act (other),train,148.0,-0.43243243243243246,Negative,False,,,False
+RESEARCH-00037,"Bihar Coaching Institute (Control & Regulation) Act, 2010",2010-04-28,Education & universities,Establishment of an institution,train,31.0,-0.3548387096774194,Negative,False,,,False
+RESEARCH-00855,The Bihar School Examination Board (Amendment) Act 2010,2010-04-28,Education & universities,Amendment,train,31.0,-0.16129032258064518,Neutral,False,,,False
+RESEARCH-00794,"The Bihar Co-Operative Societies (Amendment) Act, 2010",2010-04-30,"Industry, business & economy",Amendment,train,72.0,-0.125,Neutral,False,,,False
+RESEARCH-00836,"The Bihar Panchayat Raj (Amendment) Act, 2010",2010-04-30,Governance & public administration,Amendment,train,158.0,-0.20253164556962025,Negative,False,,,False
+RESEARCH-01480,"The Kerala Prisons and Correctional Services (Management) Act, 2010",2010-05-12,"Law, justice & policing",Principal Act (other),train,130.0,-0.2461538461538461,Negative,False,,,False
+RESEARCH-02162,"The Tamil Nadu Legislative Council Act, 2010",2010-05-18,"Culture, language, religion & sports",Establishment of an institution,train,214.0,0.12149532710280375,Positive,False,,,False
+RESEARCH-01882,"The National Green Tribunal Act, 2010",2010-06-02,"Law, justice & policing",Principal Act (other),train,73.0,0.0410958904109589,Neutral,False,,,False
+RESEARCH-00012,"Anna University of Technology, Chennai Act, 2010",2010-06-11,Education & universities,Establishment of an institution,train,48.0,-0.625,Negative,False,,,False
+RESEARCH-00013,"Anna University of Technology, Madurai Act, 2010",2010-06-11,Education & universities,Establishment of an institution,train,157.0,-0.4713375796178344,Negative,False,,,False
+RESEARCH-00015,Arunachal Pradesh Colleges and Institutions of Higher Education(Establishment and Regulations) Act 2010,2010-06-24,Education & universities,Establishment of an institution,train,277.0,-0.23104693140794222,Neutral,False,,,False
+RESEARCH-00017,Arunachal Pradesh State Council for Technical Education Act 2010,2010-06-24,Education & universities,Establishment of an institution,train,205.0,-0.2780487804878049,Negative,False,,,False
+RESEARCH-01956,"The Presidency University Act, 2010",2010-07-07,Education & universities,Establishment of an institution,train,174.0,-0.42528735632183906,Negative,False,,,False
+RESEARCH-01433,"The Karnataka State Higher Education Council Act, 2010",2010-07-23,Education & universities,Establishment of an institution,train,35.0,-0.5428571428571429,Negative,False,,,False
+RESEARCH-02423,"The West Bengal Fiscal Responsibility and Budget Management Act, 2010",2010-07-30,"Finance, tax & budget",Appropriation / budget,train,182.0,0.032967032967033016,Positive,False,,,False
+RESEARCH-00963,"The Clinical Establishments (Registration and Regulation) Act, 2010",2010-08-18,Health & social welfare,Principal Act (other),train,712.0,0.3146067415730337,Positive,False,,,False
+RESEARCH-00109,"Chhattisgarh Official Language Commission Act, 2010",2010-08-20,"Culture, language, religion & sports",Establishment of an institution,train,191.0,-0.12565445026178007,Negative,False,,,False
+RESEARCH-00639,"The Assam Deputy Speaker's Salaries and Allowances (Amendment) Act, 2010",2010-09-04,Governance & public administration,Amendment,train,173.0,-0.24855491329479767,Negative,False,,,False
+RESEARCH-00614,"The Assam Agricultural Income Tax (Amendment) Act, 2010",2010-09-07,"Finance, tax & budget",Amendment,train,279.0,-0.2688172043010753,Negative,False,,,False
+RESEARCH-00745,"The Assam Women (Reservation of Vacancies in Services and Posts) (Amendment) Act, 2010",2010-09-07,Health & social welfare,Amendment,train,221.0,-0.5158371040723981,Negative,False,,,False
+RESEARCH-00962,"The Civil Liability for Nuclear Damage Act, 2010",2010-09-21,Other / unclassified,Principal Act (other),train,63.0,-0.23809523809523808,Negative,False,,,False
+RESEARCH-01867,"The Nalanda University Act, 2010",2010-09-21,Education & universities,Establishment of an institution,train,82.0,-0.25609756097560976,Negative,False,,,False
+RESEARCH-01171,"The Haryana Gau-Seva Aayog Act, 2010 (19 of 2010)",2010-09-25,Other / unclassified,Principal Act (other),train,95.0,0.1368421052631579,Neutral,False,,,False
+RESEARCH-01036,"The Foreign Contribution (Regulation) Act, 2010",2010-09-26,Other / unclassified,Principal Act (other),train,50.0,-0.4,Negative,False,,,False
+RESEARCH-01238,"The Himachal Pradesh Para-veterinary Council Act, 2010",2010-10-05,Governance & public administration,Establishment of an institution,train,62.0,-0.32258064516129037,Neutral,False,,,False
+RESEARCH-01320,"The Jammu and Kashmir Municipalities Public Disclosure Act, 2010",2010-10-23,"Land, housing & urban development",Principal Act (other),train,260.0,0.06153846153846154,Positive,False,,,False
+RESEARCH-01322,"The Jammu and Kashmir Obsolete Laws (Repeal) Act, 2010",2010-10-23,Governance & public administration,Repeal,train,186.0,0.34408602150537637,Positive,False,,,False
+RESEARCH-00957,"The Chitkara University Act, 2010",2010-11-25,Education & universities,Establishment of an institution,train,60.0,-0.30000000000000004,Negative,False,,,False
+RESEARCH-00447,"Tamil Nadu Value Added Tax (Special Provision) Act, 2010",2010-11-27,"Finance, tax & budget",Principal Act (other),train,98.0,-0.5,Negative,False,,,False
+RESEARCH-01977,"The Puducherry Prevention of Anti-Social Activities Act, 2008",2010-12-05,"Law, justice & policing",Principal Act (other),train,90.0,-0.21111111111111114,Negative,False,,,False
+RESEARCH-00292,"Orissa Police Service (Method of Recruitment and Conditions of Service of Constables) Order, 2010",2010-12-23,"Law, justice & policing",Principal Act (other),train,211.0,-0.21800947867298576,Negative,False,,,False
+RESEARCH-00758,"The Bahra University (Establishment and Regulation) Act, 2010",2011-01-28,Education & universities,Establishment of an institution,train,58.0,-0.10344827586206895,Neutral,False,,,False
+RESEARCH-00430,Tamil Nadu Non-Resident Tamils' Welfare Act 2011,2011-03-01,Health & social welfare,Principal Act (other),train,90.0,-0.5888888888888889,Negative,False,,,False
+RESEARCH-01789,"The Motor Vehicles Taxation (Amendment) Act, 2011",2011-03-30,"Finance, tax & budget",Amendment,train,82.0,-0.25609756097560976,Negative,False,,,False
+RESEARCH-02388,"The West Bengal Appropriation Act, 2011",2011-03-31,"Finance, tax & budget",Appropriation / budget,train,48.0,-0.16666666666666669,Negative,False,,,False
+RESEARCH-00368,"THE CHHATTISGARH APPROPRIATION (No.2) ACT, 2011",2011-04-01,"Finance, tax & budget",Appropriation / budget,train,35.0,-0.05714285714285716,Neutral,False,,,False
+RESEARCH-01384,"The Karnataka Ground Water (Regulation and Control of Development and Management) Act, 2011",2011-04-05,"Agriculture, environment & water",Principal Act (other),train,44.0,0.31818181818181823,Positive,False,,,False
+RESEARCH-00756,"The Axis University Uttar Pradesh Act, 2011",2011-04-06,Education & universities,Establishment of an institution,train,57.0,-0.24561403508771928,Neutral,False,,,False
+RESEARCH-01007,The Delhi (Right of Citizen to Time Bound Delivery of Services) Act 2011,2011-04-07,Other / unclassified,Principal Act (other),train,30.0,0.10000000000000003,Positive,False,,,False
+RESEARCH-01105,"The Gujarat Anatomy Act, 2011",2011-04-08,Other / unclassified,Principal Act (other),train,337.0,-0.2729970326409495,Negative,False,,,False
+RESEARCH-01478,"The Kerala Police Act, 2011",2011-04-20,"Law, justice & policing",Principal Act (other),train,628.0,-0.22929936305732487,Negative,False,,,False
+RESEARCH-01582,"The Maharashtra Municipal Property Tax Board Act, 2011",2011-04-21,"Finance, tax & budget",Establishment of an institution,train,376.0,-0.34042553191489366,Negative,False,,,False
+RESEARCH-01313,"The Jammu and Kashmir Finance Commission for Panchayats and Municipalities Act, 2011",2011-04-23,"Finance, tax & budget",Establishment of an institution,train,59.0,-0.4067796610169491,Negative,False,,,False
+RESEARCH-00068,"Bihar Right to Public Services Act, 2011",2011-05-02,Governance & public administration,Principal Act (other),train,188.0,-0.06914893617021273,Negative,False,,,False
+RESEARCH-00185,"Jharkhand Motor Vehicle Taxation(Amendment) Act, 2011",2011-05-09,"Finance, tax & budget",Amendment,train,180.0,-0.1888888888888889,Negative,False,,,False
+RESEARCH-00684,"The Assam Motor Vehicles Taxation (Amendment) Act, 2011",2011-05-25,"Finance, tax & budget",Amendment,train,32.0,-0.1875,Neutral,False,,,False
+RESEARCH-00069,Bihar School Examination Board (Amendment) Act 2011,2011-05-27,Education & universities,Amendment,train,53.0,0.0,Neutral,False,,,False
+RESEARCH-00090,"Bihar Value Added Tax (Amendment) Act, 2011",2011-05-27,"Finance, tax & budget",Amendment,train,112.0,-0.2410714285714286,Negative,False,,,False
+RESEARCH-00835,The Bihar Non Government Secondary School (Taking over Management and Control) (Amendment) Act 2011,2011-05-27,Education & universities,Amendment,train,187.0,-0.04278074866310161,Negative,False,,,False
+RESEARCH-00837,"The Bihar Panchayat Raj (Amendment) Act, 2011",2011-05-27,Governance & public administration,Amendment,train,184.0,0.03804347826086957,Neutral,False,,,False
+RESEARCH-00193,Jharkhand State Road Development Fund Act 2011,2011-05-28,"Infrastructure, energy & transport",Principal Act (other),train,45.0,-0.2,Neutral,False,,,False
+RESEARCH-00801,"The Bihar Elementary School Education Committee Act, 2011",2011-06-06,Education & universities,Principal Act (other),train,192.0,0.3125,Positive,False,,,False
+RESEARCH-01843,"The Nagaland Municipalities Community Participation Act, 2011",2011-06-06,"Land, housing & urban development",Principal Act (other),train,147.0,0.24489795918367352,Positive,False,,,False
+RESEARCH-00141,Enacted under ARTICLE 309 of THE INDIAN CONSTITUTION,2011-06-07,Other / unclassified,Principal Act (other),train,239.0,0.3305439330543932,Positive,False,,,False
+RESEARCH-01770,"The Mizoram Public Records Act, 2011",2011-07-27,"Culture, language, religion & sports",Principal Act (other),train,30.0,-0.8666666666666667,Negative,False,,,False
+RESEARCH-00970,"The Coinage Act, 2011",2011-09-01,Other / unclassified,Principal Act (other),train,47.0,-0.5531914893617021,Negative,False,,,False
+RESEARCH-00657,"The Assam Fiscal Responsibility and Budget Management (Amendment) Act, 2011",2011-09-05,"Finance, tax & budget",Appropriation / budget,train,49.0,-0.30612244897959184,Negative,False,,,False
+RESEARCH-00985,"The Cotton College State University Act, 2011",2011-09-05,Education & universities,Establishment of an institution,train,52.0,-0.40384615384615385,Negative,False,,,False
+RESEARCH-00676,"The Assam Local Self-Government Fiscal Responsibility Act, 2011",2011-09-06,"Finance, tax & budget",Appropriation / budget,train,51.0,-0.5882352941176471,Negative,False,,,False
+RESEARCH-00057,"Bihar Medical Service Institution and Person Protection Act, 2011",2011-09-15,Education & universities,Principal Act (other),train,127.0,-0.3228346456692913,Neutral,False,,,False
+RESEARCH-02363,"The West Bengal Appropriation (No. 2) Act, 2011",2011-09-15,"Finance, tax & budget",Appropriation / budget,train,133.0,-0.39097744360902253,Negative,False,,,False
+RESEARCH-00930,"The Chhattisgarh Auxiliary armed police force Act, 2011",2011-09-24,"Law, justice & policing",Principal Act (other),train,38.0,-0.42105263157894735,Negative,False,,,False
+RESEARCH-00104,Chhattisgarh Lok Seva Guarantee Act 2011,2011-09-30,Other / unclassified,Principal Act (other),train,46.0,0.04347826086956519,Neutral,False,,,False
+RESEARCH-00105,Chhattisgarh Lok Seva Guarantee Act 2011 No. 23 of 2011,2011-09-30,Other / unclassified,Principal Act (other),train,56.0,0.01785714285714285,Neutral,False,,,False
+RESEARCH-00190,"Jharkhand Rajya Sewa Dene ki Guarantee Act, 2011",2011-09-30,Other / unclassified,Principal Act (other),train,280.0,-0.2892857142857143,Neutral,False,,,False
+RESEARCH-02333,"The Uttarakhand Right to Service Act, 2011",2011-10-22,Governance & public administration,Principal Act (other),train,78.0,-0.10256410256410253,Neutral,False,,,False
+RESEARCH-00339,Sri Dev Suman University Act,2011-11-04,Education & universities,Establishment of an institution,train,30.0,-0.3,Neutral,False,,,False
+RESEARCH-02497,"Tripura State Guest Rules,2011",2011-11-05,Governance & public administration,Principal Act (other),train,180.0,-0.18888888888888888,Negative,False,,,False
+RESEARCH-00966,The Cochin University of Science and Technology(Amendment Act) 2012,2011-12-01,Education & universities,Amendment,train,122.0,-0.1311475409836066,Negative,False,,,False
+RESEARCH-01283,"The Indian Stamp (Manipur Second Amendment) Act, 2011",2011-12-16,"Finance, tax & budget",Amendment,train,47.0,-0.4255319148936171,Negative,False,,,False
+RESEARCH-00020,"Atal Bihari Vajpayee Hindi Vishwavidyalaya Adhiniyam,2011",2011-12-19,Education & universities,Establishment of an institution,train,328.0,-0.09146341463414631,Negative,False,,,False
+RESEARCH-00822,"The Bihar Land Mutation ACT, 2011",2011-12-22,"Land, housing & urban development",Principal Act (other),train,61.0,-0.09836065573770492,Negative,False,,,False
+RESEARCH-00828,"The Bihar Lokayukta Act, 2011",2011-12-22,"Law, justice & policing",Principal Act (other),train,161.0,-0.44099378881987583,Negative,False,,,False
+RESEARCH-00868,"The Bihar Special Survey and Settlement Act, 2011",2011-12-22,"Land, housing & urban development",Principal Act (other),train,41.0,-0.24390243902439027,Neutral,False,,,False
+RESEARCH-02191,"The Telangana Land Licensed Cultivators Act, 2011",2011-12-22,"Land, housing & urban development",Principal Act (other),train,51.0,0.05882352941176472,Positive,False,,,False
+RESEARCH-01410,"The Karnataka Regulation of Stone Crushers Act, 2011",2012-01-03,Other / unclassified,Principal Act (other),train,92.0,-0.43478260869565216,Negative,False,,,False
+RESEARCH-00033,Bihar Apartment Ownership (Amendment) Act 2011,2012-01-09,"Agriculture, environment & water",Amendment,train,56.0,-0.7142857142857143,Negative,False,,,False
+RESEARCH-01765,"The Mizoram Police Act, 2011",2012-01-16,"Law, justice & policing",Principal Act (other),train,318.0,-0.4496855345911949,Negative,False,,,False
+RESEARCH-00582,"The Arunachal Pradesh Nursing Council Act,2011",2012-01-20,Health & social welfare,Establishment of an institution,train,336.0,-0.4375,Negative,False,,,False
+RESEARCH-01032,"The Factoring Regulation Act, 2011",2012-01-22,Other / unclassified,Principal Act (other),train,30.0,-0.16666666666666666,Neutral,False,,,False
+RESEARCH-01351,"The Jharkhand Tax on Professions, Traders, Calling and Employments Act, 2011",2012-01-30,"Finance, tax & budget",Principal Act (other),train,335.0,-0.3014925373134328,Negative,False,,,False
+RESEARCH-02468,"The West Bengal Staff Selection Commission Act, 2011",2012-01-31,Governance & public administration,Establishment of an institution,train,208.0,-0.13942307692307693,Negative,False,,,False
+RESEARCH-01342,"The Jharkhand Apartment (Flat) Ownership Act, 2011",2012-02-02,"Agriculture, environment & water",Principal Act (other),train,121.0,-0.6363636363636364,Negative,False,,,False
+RESEARCH-00457,"The Academy of Scientific and Innovative Research Act, 2011",2012-02-06,Education & universities,Principal Act (other),train,69.0,0.04347826086956519,Neutral,False,,,False
+RESEARCH-00176,"Jharkhand Building (Lease, Rent & Eviction) Control Act, 2011",2012-02-09,"Land, housing & urban development",Principal Act (other),train,73.0,-0.6575342465753424,Negative,False,,,False
+RESEARCH-00188,Jharkhand Municipal Act 2011,2012-02-09,"Land, housing & urban development",Principal Act (other),train,40.0,-0.175,Negative,False,,,False
+RESEARCH-00038,"Bihar Cooperative Societies (Amendment) Act, 2011",2012-02-10,"Industry, business & economy",Amendment,train,208.0,0.13942307692307696,Positive,False,,,False
+RESEARCH-01100,"The Gorkhaland Territorial Administration Act, 2011",2012-03-12,Governance & public administration,Principal Act (other),train,364.0,-0.33516483516483514,Negative,False,,,False
+RESEARCH-00160,"Haryana Registration and Regulation of Societies Act, 2012",2012-03-28,Other / unclassified,Principal Act (other),train,38.0,-0.605263157894737,Negative,False,,,False
+RESEARCH-01199,"The Haryana Registration and Regulation of Societies Act, 2012 (1 of 2012)",2012-03-28,Other / unclassified,Principal Act (other),train,33.0,-0.303030303030303,Negative,False,,,False
+RESEARCH-00369,"THE CHHATTISGARH APPROPRIATION (No.2) ACT, 2012",2012-03-31,"Finance, tax & budget",Appropriation / budget,train,32.0,0.28125,Positive,False,,,False
+RESEARCH-02472,"The West Bengal Tax on Entry of Goods into Local Areas Act, 2012",2012-03-31,"Finance, tax & budget",Principal Act (other),train,500.0,-0.296,Negative,False,,,False
+RESEARCH-01309,"The Jammu and Kashmir (Residential and Commercial Tenancy) Act, 2012",2012-04-14,"Land, housing & urban development",Principal Act (other),train,30.0,0.09999999999999998,Neutral,False,,,False
+RESEARCH-00319,Restructuring of the Odisha Veterinary Service Cadre,2012-04-24,Other / unclassified,Principal Act (other),train,34.0,-0.2647058823529411,Negative,False,,,False
+RESEARCH-01543,"The Madhya Pradesh Vidyut Shulk Adhiniyam,2012",2012-04-25,Other / unclassified,Principal Act (other),train,68.0,-0.01470588235294118,Neutral,False,,,False
+RESEARCH-02353,"The West Bengal Advocates Welfare Corporation Act, 2012",2012-04-25,"Law, justice & policing",Establishment of an institution,train,204.0,-0.48039215686274506,Negative,False,,,False
+RESEARCH-00175,"Jharkhand Advertisement Tax Act, 2012",2012-04-27,"Finance, tax & budget",Principal Act (other),train,63.0,-0.3968253968253968,Negative,False,,,False
+RESEARCH-00179,"Jharkhand Entertainment Tax Act, 2012",2012-04-27,"Finance, tax & budget",Principal Act (other),train,187.0,-0.6149732620320856,Negative,False,,,False
+RESEARCH-00198,Jharkhand homeguard amendment Act 2012,2012-05-04,Other / unclassified,Amendment,train,446.0,-0.5515695067264574,Negative,False,,,False
+RESEARCH-00909,"The Career Point University (Establishment and Regulation) Act, 2012",2012-05-08,Education & universities,Establishment of an institution,train,377.0,-0.20954907161803712,Neutral,False,,,False
+RESEARCH-00210,Kerala Recognition of Trade Union Act,2012-05-10,Labour & employment,Principal Act (other),train,35.0,0.17142857142857143,Positive,False,,,False
+RESEARCH-00663,"The Assam Ground Water Control and Regulation Act, 2012",2012-05-19,"Agriculture, environment & water",Principal Act (other),train,472.0,-0.02542372881355931,Neutral,False,,,False
+RESEARCH-00733,"The Assam Town and Country Planning (Amendment) Act,2012",2012-05-21,"Land, housing & urban development",Amendment,train,218.0,-0.07798165137614682,Negative,False,,,False
+RESEARCH-00919,"The Chanakya National Law University (Amendment) Act, 2012",2012-05-24,Education & universities,Amendment,train,192.0,-0.19270833333333337,Negative,False,,,False
+RESEARCH-00077,"Bihar State Public Library and Information Centre (Amendment) Act, 2012",2012-05-25,Governance & public administration,Amendment,train,52.0,0.019230769230769273,Neutral,False,,,False
+RESEARCH-00827,"The Bihar Lokayukta (Amendment) Act, 2012",2012-05-25,"Law, justice & policing",Amendment,train,41.0,-0.29268292682926833,Negative,False,,,False
+RESEARCH-00424,Tamil Nadu Infrastructure Development Act 2012,2012-05-31,"Infrastructure, energy & transport",Principal Act (other),train,290.0,-0.08275862068965517,Negative,False,,,False
+RESEARCH-01969,"The Protection of Children from Sexual Offences Act, 2012",2012-06-19,"Law, justice & policing",Principal Act (other),train,310.0,0.06451612903225806,Neutral,False,,,False
+RESEARCH-02346,"The Venkateshwara Open University Act,2012",2012-06-20,Education & universities,Establishment of an institution,train,40.0,-0.35000000000000003,Neutral,False,,,False
+RESEARCH-00460,"The Adesh University Act, 2012",2012-07-10,Education & universities,Establishment of an institution,train,135.0,-0.08888888888888885,Negative,False,,,False
+RESEARCH-00129,"Delhi Water & Sewer (Tariff & Metering) Regulations, 2012",2012-07-12,"Agriculture, environment & water",Principal Act (other),train,44.0,-0.34090909090909094,Neutral,False,,,False
+RESEARCH-01005,"The Daman and Diu Panchayat Regulation, 2012",2012-07-20,Governance & public administration,Principal Act (other),train,72.0,0.0,Negative,False,,,False
+RESEARCH-00128,Delhi Court Fee Amendment ACT 2012,2012-08-01,"Law, justice & policing",Amendment,train,55.0,-0.43636363636363634,Negative,False,,,False
+RESEARCH-01082,"The Goa Nursing Council Act, 2012",2012-08-08,Health & social welfare,Establishment of an institution,train,58.0,-0.7068965517241379,Negative,False,,,False
+RESEARCH-02180,"The Techno India University, West Bengal, Act, 2012",2012-08-16,Education & universities,Establishment of an institution,train,100.0,-0.51,Negative,False,,,False
+RESEARCH-00886,"The Bihar Value Added Tax (Amendment) Act, 2012",2012-08-27,"Finance, tax & budget",Amendment,train,112.0,0.008928571428571397,Positive,False,,,False
+RESEARCH-00818,"The Bihar Land Disputes Resolution (Amendment) Act, 2012",2012-08-30,"Land, housing & urban development",Amendment,train,55.0,-0.41818181818181815,Negative,False,,,False
+RESEARCH-00821,"The Bihar Land Mutation (Amendment) Act, 2012",2012-08-30,"Land, housing & urban development",Amendment,train,94.0,-0.2872340425531915,Negative,False,,,False
+RESEARCH-01193,"The Haryana Private Technical Education Institutions (Regulation of Admission and Fee) Act, 2012 (18 of 2012)",2012-09-10,Education & universities,Principal Act (other),train,31.0,-0.38709677419354843,Negative,False,,,False
+RESEARCH-01883,"The National Institute of Mental Health and Neuro-Sciences, Bangalore Act, 2012",2012-09-13,Education & universities,Establishment of an institution,train,128.0,-0.3203125,Negative,False,,,False
+RESEARCH-01688,"The Meghalaya Compulsory Registration of Marriage Act, 2012 (Act No. 13 of 2012)",2012-09-14,Social groups & identity,Principal Act (other),train,233.0,-0.46351931330472107,Negative,False,,,False
+RESEARCH-01936,"The Odisha Special Survey and Settlement Act, 2012",2012-09-26,"Land, housing & urban development",Principal Act (other),train,49.0,-0.22448979591836737,Negative,False,,,False
+RESEARCH-01212,"The Haryana State Commission for Women Act, 2012 (27 of 2012)",2012-10-15,Health & social welfare,Establishment of an institution,train,34.0,0.38235294117647056,Positive,False,,,False
+RESEARCH-01915,"The Odisha Industrial Security Force Act, 2012",2012-10-19,"Industry, business & economy",Principal Act (other),train,70.0,-0.5285714285714286,Negative,False,,,False
+RESEARCH-00294,"Patna University (Amendment and Validation) Act, 2012",2012-12-27,Education & universities,Amendment,train,96.0,-0.32291666666666663,Neutral,False,,,False
+RESEARCH-00786,"The Bihar Agriculture Land (Conversion for Non-Agriculture Purposes) (Amendment) Act, 2012",2012-12-27,"Agriculture, environment & water",Amendment,train,78.0,-0.6538461538461539,Negative,False,,,False
+RESEARCH-01991,"The Punjab Community Participation in Municipalities Act, 2013",2013-01-04,"Land, housing & urban development",Principal Act (other),train,120.0,-0.26666666666666666,Negative,False,,,False
+RESEARCH-02007,"The Punjab Prevention of Human Smuggling Act, 2012",2013-01-04,"Law, justice & policing",Principal Act (other),train,366.0,-0.20491803278688525,Negative,False,,,False
+RESEARCH-00714,"The Assam State Vigilance Commission Act, 2010",2013-01-07,"Law, justice & policing",Establishment of an institution,train,151.0,0.04635761589403975,Positive,False,,,False
+RESEARCH-00103,"Chhattisgarh Food and Nutrition Security Act, 2012",2013-01-09,Health & social welfare,Principal Act (other),train,118.0,0.02542372881355931,Neutral,False,,,False
+RESEARCH-00585,"The Arunachal Pradesh Property Rights to Slum Dwellers Act,2012",2013-01-18,"Land, housing & urban development",Principal Act (other),train,70.0,-0.3142857142857143,Negative,False,,,False
+RESEARCH-01395,"The Karnataka Nursing and Paramedical Sciences Education (Regulation) Authority Act, 2012",2013-01-28,Education & universities,Establishment of an institution,train,103.0,-0.7766990291262136,Negative,False,,,False
+RESEARCH-00226,"M.S. Ramaiah University of Applied Sciences Act, 2012",2013-02-05,Education & universities,Establishment of an institution,train,91.0,-0.46153846153846156,Negative,False,,,False
+RESEARCH-00329,"Sharana Basava University Act, 2012",2013-02-05,Education & universities,Establishment of an institution,train,118.0,-0.06779661016949151,Neutral,False,,,False
+RESEARCH-01949,"The Pes University Act, 2012",2013-02-05,Education & universities,Establishment of an institution,train,374.0,-0.729946524064171,Negative,False,,,False
+RESEARCH-00011,Anna University Act 2013,2013-02-06,Education & universities,Establishment of an institution,train,611.0,-0.34697217675941083,Negative,False,,,False
+RESEARCH-02344,"The Vellore Institute of Technology Bangalore Act, 2012",2013-02-07,Education & universities,Establishment of an institution,train,275.0,-0.3527272727272727,Negative,False,,,False
+RESEARCH-01376,"The Karnataka Daily Wage Employees Welfare Act, 2012",2013-02-14,Health & social welfare,Principal Act (other),train,164.0,-0.274390243902439,Negative,False,,,False
+RESEARCH-02025,"The Punjab State Commission for Minorities Act, 2012",2013-02-14,Social groups & identity,Establishment of an institution,train,39.0,-0.38461538461538464,Negative,False,,,False
+RESEARCH-01024,The Dit University Act,2013-02-15,Education & universities,Establishment of an institution,train,222.0,-0.3783783783783784,Negative,False,,,False
+RESEARCH-02488,The swami ram Himalyan act,2013-02-15,Other / unclassified,Principal Act (other),train,47.0,-0.4042553191489362,Negative,False,,,False
+RESEARCH-00997,"The DAV University Act, 2012",2013-02-18,Education & universities,Establishment of an institution,train,50.0,-0.38,Negative,False,,,False
+RESEARCH-00442,"Tamil Nadu Special Police Youth Brigade Act, 2013",2013-02-23,"Law, justice & policing",Principal Act (other),train,209.0,0.07177033492822965,Positive,False,,,False
+RESEARCH-01618,"The Manipal University Bangalore Act, 2012",2013-02-25,Education & universities,Establishment of an institution,train,459.0,-0.43790849673202614,Negative,False,,,False
+RESEARCH-00565,"The Arunachal Pradesh Forest and Special Tiger Protection Force Act, 2012",2013-03-04,"Agriculture, environment & water",Principal Act (other),train,54.0,-0.07407407407407407,Negative,False,,,False
+RESEARCH-02043,"The Rai Technology University, Bangalore Act, 2012",2013-03-12,Education & universities,Establishment of an institution,train,53.0,0.20754716981132076,Positive,False,,,False
+RESEARCH-01298,"The Institute of Infrastructure, Technology, Research and Management Act, 2012",2013-03-20,Education & universities,Establishment of an institution,train,52.0,0.0961538461538462,Positive,False,,,False
+RESEARCH-00172,"J.S.S. Science and Technology University Act, 2013",2013-03-22,Education & universities,Establishment of an institution,train,85.0,-0.7176470588235293,Negative,False,,,False
+RESEARCH-02143,"The Srinivas University Act, 2013",2013-03-22,Education & universities,Establishment of an institution,train,54.0,-0.6296296296296297,Negative,False,,,False
+RESEARCH-02397,"The West Bengal Backward Classes (Other Than Scheduled Castes and Scheduled Tribes) (Reservation of Vacancies in Services and Posts) Act, 2012",2013-03-25,Social groups & identity,Principal Act (other),train,67.0,-0.6716417910447762,Negative,False,,,False
+RESEARCH-02390,"The West Bengal Appropriation Act, 2013",2013-03-26,"Finance, tax & budget",Appropriation / budget,train,121.0,-0.23966942148760328,Negative,False,,,False
+RESEARCH-00045,"Bihar Finance Act, 2013",2013-04-01,"Finance, tax & budget",Appropriation / budget,train,191.0,-0.03664921465968585,Neutral,False,,,False
+RESEARCH-02325,The Uttarakhand Medicare Service Persons and Institutions,2013-04-01,Education & universities,Principal Act (other),train,365.0,-0.049315068493150704,Negative,False,,,False
+RESEARCH-02530,Uttarakhand Special Area (Planned Development and Promotion of tourism) Act,2013-04-01,"Industry, business & economy",Principal Act (other),train,237.0,-0.11392405063291139,Negative,False,,,False
+RESEARCH-02337,"The Uttarakhand Water Management and Regulatory Act, 2013",2013-04-04,"Agriculture, environment & water",Principal Act (other),train,199.0,-0.045226130653266305,Negative,False,,,False
+RESEARCH-00289,Odisha Tourism Policy 2013,2013-04-17,"Industry, business & economy",Policy document,train,362.0,-0.18784530386740328,Negative,False,,,False
+RESEARCH-00326,Sexual Harassment at Workplace Act,2013-04-22,Health & social welfare,Principal Act (other),train,142.0,0.09859154929577463,Positive,False,,,False
+RESEARCH-02099,"The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",2013-04-22,"Law, justice & policing",Principal Act (other),train,410.0,-0.2926829268292683,Negative,False,,,False
+RESEARCH-00945,"The Chhattisgarh SC, ST and OBC (Regulation of Social Status Certification) Act, 2013",2013-04-23,Social groups & identity,Principal Act (other),train,396.0,-0.1767676767676768,Negative,False,,,False
+RESEARCH-00946,"The Chhattisgarh Scheduled Castes, Scheduled Tribes and Other Backward Classes (Regulation of social Status Certification) Act, 2013",2013-04-23,Social groups & identity,Principal Act (other),train,161.0,-0.5217391304347826,Negative,False,,,False
+RESEARCH-00114,"Chhattisgarh Right of Youth to Skill Development Act, 2013",2013-04-26,Labour & employment,Principal Act (other),train,32.0,0.21875,Neutral,False,,,False
+RESEARCH-02429,"The West Bengal Higher Educational Institutions (Reservation in Admission) Act, 2013 (Bengali Version)",2013-04-30,Education & universities,Principal Act (other),train,35.0,-0.5142857142857142,Negative,False,,,False
+RESEARCH-02471,"The West Bengal State Higher Educational Institutions (Reservation in Admission) Act, 2013",2013-04-30,Education & universities,Principal Act (other),train,124.0,-0.5887096774193548,Negative,False,,,False
+RESEARCH-01723,"The Mizoram (Land Revenue) Act, 2013 (Act No. 5 of 2013)",2013-05-02,"Land, housing & urban development",Principal Act (other),train,101.0,-0.37623762376237624,Negative,False,,,False
+RESEARCH-01739,"The Mizoram Entertainment Tax Act, 2013",2013-05-02,"Finance, tax & budget",Principal Act (other),train,186.0,-0.29569892473118276,Negative,False,,,False
+RESEARCH-01741,"The Mizoram Fire Service Act, 2013",2013-05-02,Governance & public administration,Principal Act (other),train,257.0,-0.12840466926070038,Negative,False,,,False
+RESEARCH-00814,"The Bihar Hindu Religious Trust (Amendment) Act, 2013",2013-05-03,"Culture, language, religion & sports",Amendment,train,244.0,-0.10245901639344263,Negative,False,,,False
+RESEARCH-01904,"The North East Christian University Act, 2012",2013-05-10,Education & universities,Establishment of an institution,train,44.0,-0.1590909090909091,Neutral,False,,,False
+RESEARCH-00695,"The Assam Prisons Act, 2013",2013-05-13,"Law, justice & policing",Principal Act (other),train,736.0,-0.5108695652173914,Negative,False,,,False
+RESEARCH-01280,"The Indian Stamp (Assam Amendment) Act, 2013",2013-05-13,"Finance, tax & budget",Amendment,train,180.0,0.14444444444444443,Positive,False,,,False
+RESEARCH-00119,"Cigarettes and Other Tobacco Products Act, 2003",2013-05-18,Other / unclassified,Principal Act (other),train,63.0,-0.1746031746031746,Negative,False,,,False
+RESEARCH-01937,"The Odisha Staff Nurses (Validation of Appointment) Act, 2012",2013-05-18,Governance & public administration,Amendment,train,37.0,-0.24324324324324326,Negative,False,,,False
+RESEARCH-00036,"Bihar Co-Operative Societies (Amendment) Act, 2013",2013-05-22,"Industry, business & economy",Amendment,train,144.0,-0.16666666666666663,Neutral,False,,,False
+RESEARCH-01019,"The Dibrugarh University (Amendment) Act, 2013",2013-05-30,Education & universities,Amendment,train,72.0,-0.19444444444444445,Neutral,False,,,False
+RESEARCH-01044,"The Gauhati University (Amendment) Act, 2013",2013-05-30,Education & universities,Amendment,train,61.0,0.03278688524590162,Neutral,False,,,False
+RESEARCH-00941,"The Chhattisgarh Private Placement Agencies (Regulation) Act, 2013",2013-07-26,Other / unclassified,Principal Act (other),train,33.0,-0.2121212121212121,Negative,False,,,False
+RESEARCH-00096,Chattisgarh Land Holdings (Validation) Act 2013,2013-07-30,"Land, housing & urban development",Amendment,train,64.0,-0.015625,Negative,False,,,False
+RESEARCH-00705,"The Assam Royal Global University Act, 2013",2013-08-23,Education & universities,Establishment of an institution,train,221.0,-0.21266968325791857,Negative,False,,,False
+RESEARCH-00975,"The Companies Act, 2013",2013-08-29,"Industry, business & economy",Principal Act (other),train,590.0,0.040677966101694885,Neutral,False,,,False
+RESEARCH-00845,"The Bihar Private Universities Act, 2013",2013-09-09,Education & universities,Establishment of an institution,train,479.0,-0.3528183716075156,Negative,False,,,False
+RESEARCH-00264,National Food Security Act -2013,2013-09-10,Health & social welfare,Principal Act (other),train,55.0,-0.5636363636363637,Negative,False,,,False
+RESEARCH-00265,National Food Security Act 2013,2013-09-10,Health & social welfare,Principal Act (other),train,57.0,-0.2631578947368421,Neutral,False,,,False
+RESEARCH-00266,"National Food Security Act, 2013",2013-09-10,Health & social welfare,Principal Act (other),train,50.0,0.040000000000000036,Neutral,False,,,False
+RESEARCH-00269,National food security Act No 20 of 2013,2013-09-10,Health & social welfare,Principal Act (other),train,275.0,-0.07636363636363636,Neutral,False,,,False
+RESEARCH-01948,"The Pension Fund Regulatory and Development Authority Act, 2013",2013-09-18,Health & social welfare,Establishment of an institution,train,42.0,-0.11904761904761901,Negative,False,,,False
+RESEARCH-01967,"The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013",2013-09-18,"Law, justice & policing",Principal Act (other),train,32.0,0.25,Positive,False,,,False
+RESEARCH-01966,"The Prohibition of Employment as Manual Scavengers and Their Rehabilitation Act, 2013",2013-09-19,"Law, justice & policing",Principal Act (other),train,159.0,-0.49056603773584906,Negative,False,,,False
+RESEARCH-02076,"The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013",2013-09-26,"Land, housing & urban development",Principal Act (other),train,150.0,-0.15999999999999998,Negative,False,,,False
+RESEARCH-02529,Uttarakhand Schedule caste sub plan and tribal plan(planning allocation and utilization act,2013-10-01,"Land, housing & urban development",Principal Act (other),train,193.0,-0.4663212435233161,Negative,False,,,False
+RESEARCH-01626,"The Manipur Complusory Registration Marriage Act, 2008",2013-10-18,Social groups & identity,Principal Act (other),train,139.0,-0.4532374100719425,Negative,False,,,False
+RESEARCH-01113,"The Gujarat Educational Institutions Services Tribunal Act, 2006",2013-11-02,Education & universities,Principal Act (other),train,82.0,0.12195121951219512,Positive,False,,,False
+RESEARCH-02166,"The Tamil Nadu Police (Reform) Act, 2013",2013-11-08,"Law, justice & policing",Principal Act (other),train,83.0,-0.6024096385542169,Negative,False,,,False
+RESEARCH-01305,"The International Institute of Information Technology, Bhubaneswar Act, 2012",2013-11-11,Education & universities,Establishment of an institution,train,108.0,-0.4166666666666667,Negative,False,,,False
+RESEARCH-01586,"The Maharashtra Prevention and Eradication of Human Sacrifice and other Inhuman, Evil and Aghori Practices and Black Magic Act, 2013",2013-12-20,"Law, justice & policing",Principal Act (other),train,33.0,-0.696969696969697,Negative,False,,,False
+RESEARCH-00097,"Chaudhary Bansi Lal University, Bhiwani Act, 2014 (25 of 2014)",2014-01-01,Education & universities,Establishment of an institution,train,136.0,-0.2720588235294118,Neutral,False,,,False
+RESEARCH-01530,"The Lokpal and Lokayuktas Act, 2013",2014-01-01,"Law, justice & policing",Principal Act (other),train,47.0,-0.12765957446808512,Negative,False,,,False
+RESEARCH-00799,"The Bihar Delegated Legislation Provisions Act, 2013",2014-01-03,Governance & public administration,Principal Act (other),train,220.0,0.2863636363636364,Positive,False,,,False
+RESEARCH-00761,"The Bankura University Act, 2013",2014-01-06,Education & universities,Establishment of an institution,train,134.0,-0.24626865671641793,Negative,False,,,False
+RESEARCH-01999,"The Punjab Horse Race (Regulation and Management) Act, 2013",2014-01-09,Other / unclassified,Principal Act (other),train,84.0,-0.42857142857142855,Negative,False,,,False
+RESEARCH-01403,"The Karnataka Private Aided Educational Institutions Employees (Regulation of Pay, Pension and Other Benefits) Act, 2014",2014-02-11,Education & universities,Principal Act (other),train,386.0,-0.1761658031088083,Negative,False,,,False
+RESEARCH-01502,"The Kerala State Commission for Minorities Act, 2014",2014-02-13,Social groups & identity,Establishment of an institution,train,144.0,-0.027777777777777735,Neutral,False,,,False
+RESEARCH-01508,"The Kerala State Youth Commission Act, 2014",2014-02-13,Governance & public administration,Establishment of an institution,train,203.0,-0.5270935960591133,Negative,False,,,False
+RESEARCH-02470,"The West Bengal State Council of Technical and Vocational Education and Skill Development Act, 2013",2014-02-14,Education & universities,Establishment of an institution,train,49.0,-0.10204081632653061,Negative,False,,,False
+RESEARCH-01927,"The Odisha Prevention of Witch-Hunting Act, 2013",2014-02-15,"Law, justice & policing",Principal Act (other),train,96.0,-0.21875,Negative,False,,,False
+RESEARCH-00161,Hemwati Nandan Bahuguna Medical Education University Act,2014-02-18,Education & universities,Establishment of an institution,train,45.0,-0.37777777777777777,Neutral,False,,,False
+RESEARCH-00577,"The Arunachal Pradesh Indian Medicine Council Act,2013",2014-02-21,Health & social welfare,Establishment of an institution,train,203.0,0.07389162561576357,Positive,False,,,False
+RESEARCH-00525,"The Andhra Pradesh Reorganisation Act, 2014",2014-03-01,Other / unclassified,Principal Act (other),train,50.0,-0.7000000000000001,Negative,False,,,False
+RESEARCH-01452,"The Kerala Devaswom Recruitment Board Act, 2015",2014-03-01,Other / unclassified,Establishment of an institution,train,84.0,-0.5238095238095238,Negative,False,,,False
+RESEARCH-00389,"THE JAMMU AND KASHMIR PARAMEDICAL COUNCIL Act, 2014",2014-03-14,Health & social welfare,Establishment of an institution,train,465.0,-0.09892473118279566,Negative,False,,,False
+RESEARCH-01130,"The Gujarat Repealing Act, 2014",2014-03-18,Governance & public administration,Repeal,train,190.0,0.3578947368421052,Positive,False,,,False
+RESEARCH-01667,"The Manipur State Commission for the Scheduled Tribes Act, 2014",2014-03-25,Social groups & identity,Establishment of an institution,train,252.0,-0.23015873015873017,Negative,False,,,False
+RESEARCH-01200,"The Haryana Right to Service Act, 2014",2014-03-26,Governance & public administration,Principal Act (other),train,95.0,-0.42105263157894735,Negative,False,,,False
+RESEARCH-01861,"The Nagaland State Paramedical Council Act, 2014",2014-03-26,Health & social welfare,Establishment of an institution,train,138.0,-0.26811594202898553,Neutral,False,,,False
+RESEARCH-00048,"Bihar Fire Service Act, 2014",2014-03-27,Governance & public administration,Principal Act (other),train,98.0,-0.26530612244897955,Neutral,False,,,False
+RESEARCH-00459,"The Adamas University Act, 2014",2014-03-28,Education & universities,Establishment of an institution,train,67.0,-0.5671641791044777,Negative,False,,,False
+RESEARCH-01578,"The Maharashtra Money-Lending (Regulation) Act, 2014",2014-04-04,Other / unclassified,Principal Act (other),train,66.0,-0.19696969696969696,Negative,False,,,False
+RESEARCH-01662,"The Manipur Public Service Commission (Additional Functions) Act, 2014",2014-04-06,Governance & public administration,Establishment of an institution,train,142.0,-0.13380281690140844,Negative,False,,,False
+RESEARCH-01815,"The Nagaland Board of School Education (Amendment) Act, 2014",2014-04-14,Education & universities,Amendment,train,168.0,-0.44047619047619047,Negative,False,,,False
+RESEARCH-02116,"The Sikkim Land Act,2014",2014-05-30,"Land, housing & urban development",Principal Act (other),train,385.0,-0.3064935064935065,Negative,False,,,False
+RESEARCH-02534,Uttarakhand sanskrit education act,2014-06-23,Education & universities,Principal Act (other),train,154.0,-0.019480519480519487,Neutral,False,,,False
+RESEARCH-01025,"The Dr. Babasaheb Ambedkar Technological University Act, 2014",2014-06-27,Education & universities,Establishment of an institution,train,92.0,-0.31521739130434784,Negative,False,,,False
+RESEARCH-00678,"The Assam Medical Council (Amendment) Act, 2014",2014-07-12,Health & social welfare,Amendment,train,56.0,-0.23214285714285712,Negative,False,,,False
+RESEARCH-00076,"Bihar State Art and Culture Service Rules, 2014",2014-07-16,"Culture, language, religion & sports",Principal Act (other),train,31.0,-0.16129032258064516,Negative,False,,,False
+RESEARCH-02056,"The Rayat-Bahra University Act, 2014",2014-08-13,Education & universities,Establishment of an institution,train,46.0,-0.21739130434782605,Neutral,False,,,False
+RESEARCH-01094,"The Goa Transfer and Posting of Officers Act, 2014",2014-08-20,Governance & public administration,Principal Act (other),train,329.0,-0.3343465045592705,Negative,False,,,False
+RESEARCH-00056,"Bihar Medical Service Institution and Person Protection (Amendment) Act, 2014",2014-08-21,Education & universities,Amendment,train,161.0,-0.27329192546583847,Negative,False,,,False
+RESEARCH-00087,Bihar Technical Staff Selection Commission Bill 2014,2014-08-21,Governance & public administration,Establishment of an institution,train,189.0,-0.21164021164021163,Negative,False,,,False
+RESEARCH-01628,"The Manipur Conservation of Paddy Land and Wetland Act, 2014",2014-08-29,"Agriculture, environment & water",Principal Act (other),train,31.0,-0.32258064516129037,Negative,False,,,False
+RESEARCH-00652,"The Assam Entry Tax (Amendment) Act, 2014",2014-09-02,"Finance, tax & budget",Amendment,train,59.0,-0.4915254237288135,Negative,False,,,False
+RESEARCH-01907,The North East Frontier Technical University (Neftu) Arunachal Pradesh Act. 2014,2014-09-03,Education & universities,Establishment of an institution,train,49.0,-0.489795918367347,Negative,False,,,False
+RESEARCH-00605,The Arunachal Pradesh Unlawful Activities (Prevention) Act 2014,2014-09-08,"Law, justice & policing",Principal Act (other),train,153.0,-0.16993464052287588,Negative,False,,,False
+RESEARCH-01304,"The International Institute of Information Technology (IIIT) University Act, 2013",2014-09-08,Education & universities,Establishment of an institution,train,722.0,-0.32963988919667586,Neutral,False,,,False
+RESEARCH-00617,"The Assam Agricultural University (Amendment) Act, 2014",2014-09-19,Education & universities,Amendment,train,162.0,-0.01851851851851849,Neutral,False,,,False
+RESEARCH-02459,"The West Bengal Rural Health Regulatory Authority Act, 2009",2014-09-19,Health & social welfare,Establishment of an institution,train,199.0,-0.3869346733668342,Negative,False,,,False
+RESEARCH-00520,"The Andhra Pradesh Police (Reforms) Act, 2014",2014-09-22,"Law, justice & policing",Principal Act (other),train,66.0,-0.303030303030303,Negative,False,,,False
+RESEARCH-02235,"The Tripura Rickshaw Regulation Act,2014",2014-10-15,Other / unclassified,Principal Act (other),train,48.0,-0.14583333333333331,Neutral,False,,,False
+RESEARCH-00610,"The Arunodaya University Arunachal Pradesh Act, 2014",2014-10-21,Education & universities,Establishment of an institution,train,270.0,0.025925925925925908,Positive,False,,,False
+RESEARCH-00576,"The Arunachal Pradesh Housing Board Act, 2014",2014-10-24,"Land, housing & urban development",Establishment of an institution,train,212.0,-0.24528301886792458,Negative,False,,,False
+RESEARCH-02185,"The Telangana Contingency Fund Act, 2014",2014-12-03,"Finance, tax & budget",Appropriation / budget,train,86.0,-0.3139534883720931,Negative,False,,,False
+RESEARCH-02517,Uttarakhand Gairsen Development Council Act,2014-12-03,Governance & public administration,Establishment of an institution,train,129.0,-0.17829457364341086,Negative,False,,,False
+RESEARCH-02097,"The School of Planning and Architecture Act, 2014",2014-12-18,Education & universities,Principal Act (other),train,30.0,-0.26666666666666666,Negative,False,,,False
+RESEARCH-01886,"The National Judicial Appointments Commission Act, 2014",2014-12-31,"Law, justice & policing",Establishment of an institution,train,126.0,-0.373015873015873,Negative,False,,,False
+RESEARCH-02527,Uttarakhand Ropeway Act,2015-01-03,Other / unclassified,Principal Act (other),train,183.0,-0.16939890710382516,Negative,False,,,False
+RESEARCH-00626,"The Assam Backward Classes Commission (Amendment) Act, 2015",2015-01-08,Social groups & identity,Amendment,train,48.0,0.0,Negative,False,,,False
+RESEARCH-01894,"The Neotia University Act, 2014",2015-01-21,Education & universities,Establishment of an institution,train,49.0,-0.4285714285714286,Negative,False,,,False
+RESEARCH-00653,"The Assam Entry Tax (Second Amendment) Act, 2014",2015-02-06,"Finance, tax & budget",Amendment,train,192.0,-0.005208333333333315,Neutral,False,,,False
+RESEARCH-01548,The Maharaja Ranjit Singh Punjab Technical University Act 2014,2015-02-12,Education & universities,Establishment of an institution,train,496.0,-0.09072580645161293,Negative,False,,,False
+RESEARCH-02089,"The Sant Baba Bhag Singh University Act, 2014",2015-02-12,Education & universities,Establishment of an institution,train,456.0,-0.25,Negative,False,,,False
+RESEARCH-01940,"The Odisha State Open University Act, 2014",2015-02-21,Education & universities,Establishment of an institution,train,54.0,-0.8148148148148149,Negative,False,,,False
+RESEARCH-00196,"Jharkhand Water Resources Regulatory Authority Act, 2014",2015-03-16,"Agriculture, environment & water",Establishment of an institution,train,49.0,0.12244897959183676,Neutral,False,,,False
+RESEARCH-00365,"THE CHHATTISGARH APPROPRIATION (No.1) ACT, 2015",2015-03-16,"Finance, tax & budget",Appropriation / budget,train,52.0,0.15384615384615385,Neutral,False,,,False
+RESEARCH-00620,"The Assam Appropriation (No. I) Act, 2015",2015-03-19,"Finance, tax & budget",Appropriation / budget,train,50.0,-0.45999999999999996,Negative,False,,,False
+RESEARCH-02411,"The West Bengal Finance Act, 2015",2015-03-24,"Finance, tax & budget",Appropriation / budget,train,50.0,-0.45999999999999996,Negative,False,,,False
+RESEARCH-02350,"The Warangal (Metropolitan Area) Police Act, 2015",2015-04-07,"Law, justice & policing",Principal Act (other),train,38.0,-0.6052631578947368,Negative,False,,,False
+RESEARCH-00115,"Chhattisgarh Special Courts Act,",2015-04-08,"Law, justice & policing",Principal Act (other),train,75.0,-0.08000000000000002,Negative,False,,,False
+RESEARCH-00116,"Chhattisgarh Special Courts Act, 2015",2015-04-08,"Law, justice & policing",Principal Act (other),train,74.0,0.16216216216216217,Neutral,False,,,False
+RESEARCH-01673,"The Manipur University of Culture Act, 2015",2015-04-10,Education & universities,Establishment of an institution,train,221.0,-0.20361990950226244,Negative,False,,,False
+RESEARCH-00347,"THE ARUNACHAL PRADESH DISTRICT BASED ENTREPRENEURS AND PROFESSIONALS (lNCENTIVES, DEVELOPMENT AND PROMOTIONAL) ACT, 2015",2015-04-13,"Industry, business & economy",Principal Act (other),train,31.0,0.06451612903225806,Neutral,False,,,False
+RESEARCH-00797,"The Bihar Contingency Fund (Amendment) Act, 2015",2015-04-24,"Finance, tax & budget",Appropriation / budget,train,85.0,0.18823529411764703,Positive,False,,,False
+RESEARCH-00250,"Maharashtra Right to Public Services Act, 2015",2015-04-28,Governance & public administration,Principal Act (other),train,160.0,0.15,Neutral,False,,,False
+RESEARCH-00021,"BIHAR ADVOCATES' WELFARE FUND (AMENDMENT) Act, 2015",2015-05-06,"Law, justice & policing",Amendment,train,36.0,-0.5555555555555556,Negative,False,,,False
+RESEARCH-01272,"The Indian Forest (Chhattisgarh Amendment) Act, 2014",2015-05-14,"Agriculture, environment & water",Amendment,train,48.0,-0.1875,Negative,False,,,False
+RESEARCH-00667,"The Assam Home Guards (Amendment) Act, 2015",2015-05-29,Other / unclassified,Amendment,train,161.0,-0.6211180124223603,Negative,False,,,False
+RESEARCH-01373,"The Karnataka Compulsory Service 1 XXX1. by Candidates Completed Medical Courses Act, 2012",2015-05-29,Health & social welfare,Principal Act (other),train,44.0,-0.09090909090909091,Neutral,False,,,False
+RESEARCH-00464,"The Akal University Act, 2015",2015-06-04,Education & universities,Establishment of an institution,train,137.0,-0.43065693430656937,Negative,False,,,False
+RESEARCH-00991,"The Criminal Law (Chhattisgarh Amendment) (IPC, 1860(45 of 1860)) Act, 2013",2015-07-13,"Law, justice & policing",Amendment,train,106.0,0.047169811320754707,Neutral,False,,,False
+RESEARCH-00118,Child Adoption,2015-07-17,Health & social welfare,Principal Act (other),train,510.0,-0.3254901960784313,Negative,False,,,False
+RESEARCH-01740,"The Mizoram Entry Tax Act, 2015",2015-08-18,"Finance, tax & budget",Principal Act (other),train,30.0,-0.3666666666666667,Negative,False,,,False
+RESEARCH-00245,"Maharashtra Official Languages Act, 2015",2015-08-21,"Culture, language, religion & sports",Principal Act (other),train,121.0,-0.10743801652892562,Neutral,False,,,False
+RESEARCH-00285,Odisha Planning Service,2015-08-27,"Land, housing & urban development",Principal Act (other),train,70.0,-0.4571428571428572,Negative,False,,,False
+RESEARCH-00839,"The Bihar Panchayat Raj (Amendment) Act, 2015",2015-08-27,Governance & public administration,Amendment,train,223.0,0.16591928251121077,Positive,False,,,False
+RESEARCH-00274,"Odisha Bovine Breeding Policy, 2015",2015-10-03,"Agriculture, environment & water",Policy document,train,80.0,-0.5125,Negative,False,,,False
+RESEARCH-00287,"Odisha Poultry Policy, 2015",2015-10-03,"Industry, business & economy",Policy document,train,249.0,-0.31726907630522094,Negative,False,,,False
+RESEARCH-01686,"The Meghalaya Co-operative Societies Act, 2015 (Act No. 11 of 2015)",2015-10-07,"Industry, business & economy",Principal Act (other),train,86.0,-0.40697674418604657,Negative,False,,,False
+RESEARCH-01352,"The Jharkhand Tourism Development and Registration Act, 2015",2015-10-16,"Industry, business & economy",Principal Act (other),train,220.0,-0.07272727272727275,Negative,False,,,False
+RESEARCH-01225,"The Himachal Pradesh Advocate's Clerks Welfare Fund Act, 2015",2015-10-17,"Law, justice & policing",Principal Act (other),train,68.0,-0.5882352941176471,Negative,False,,,False
+RESEARCH-00195,Jharkhand University of Technology Act 2011 and its ammendment,2015-11-12,Education & universities,Establishment of an institution,train,32.0,0.28125,Neutral,False,,,False
+RESEARCH-02316,"The Uttarakhand Cess Act,2015",2015-11-17,"Finance, tax & budget",Principal Act (other),train,75.0,-0.24,Negative,False,,,False
+RESEARCH-02040,"The RIMT University Act, 2015",2015-12-08,Education & universities,Establishment of an institution,train,41.0,-0.48780487804878053,Negative,False,,,False
+RESEARCH-02355,"The West Bengal Allied-medical and Para-medical Council Act, 2015",2015-12-18,Health & social welfare,Establishment of an institution,train,165.0,-0.3939393939393939,Negative,False,,,False
+RESEARCH-00623,"The Assam Appropriation (No. IV) Act, 2015",2015-12-23,"Finance, tax & budget",Appropriation / budget,train,62.0,-0.6774193548387097,Negative,False,,,False
+RESEARCH-00102,"Chhattisgarh Council for Physiotherapy and Occupational Therapy Act, 2015",2016-01-07,Governance & public administration,Establishment of an institution,train,243.0,0.012345679012345678,Neutral,False,,,False
+RESEARCH-00136,"Dr. B.R.Ambedkar University of Social Sciences Act, 2015",2016-01-13,Education & universities,Establishment of an institution,train,192.0,0.14583333333333337,Positive,False,,,False
+RESEARCH-00900,"The Brainware University Act, 2015",2016-01-27,Education & universities,Establishment of an institution,train,253.0,-0.5138339920948617,Negative,False,,,False
+RESEARCH-01900,"The Non-Resident Keralites' Welfare (Amendment) Act, 2015",2016-01-27,Health & social welfare,Amendment,train,31.0,-0.6451612903225806,Negative,False,,,False
+RESEARCH-01556,The Maharashtra Civil Courts Act,2016-01-30,"Law, justice & policing",Principal Act (other),train,203.0,0.20197044334975373,Positive,False,,,False
+RESEARCH-01584,"The Maharashtra Paramedical Council Act, 2011",2016-01-30,Health & social welfare,Establishment of an institution,train,265.0,-0.49433962264150944,Negative,False,,,False
+RESEARCH-01434,"The Karnataka State Motor Vehicle (Special Provisions) Act, 2015",2016-02-10,"Infrastructure, energy & transport",Principal Act (other),train,456.0,-0.381578947368421,Negative,False,,,False
+RESEARCH-02507,Uttar Pradesh Revenue Code-2006,2016-02-11,"Land, housing & urban development",Code / consolidating law,train,120.0,0.06666666666666665,Positive,False,,,False
+RESEARCH-00902,"The Bureau of Indian Standards Act, 2016",2016-03-21,"Industry, business & economy",Principal Act (other),train,212.0,0.028301886792452824,Neutral,False,,,False
+RESEARCH-01446,"The Kerala Anganawadi Workers' and Anganawadi Helpers' Welfare Fund Act, 2016",2016-03-22,Health & social welfare,Principal Act (other),train,56.0,-0.3392857142857143,Negative,False,,,False
+RESEARCH-00454,"The Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016",2016-03-25,Social groups & identity,Principal Act (other),train,105.0,-0.5333333333333332,Negative,False,,,False
+RESEARCH-01893,"The National Waterways Act, 2016",2016-03-25,"Agriculture, environment & water",Principal Act (other),train,74.0,-0.2027027027027027,Negative,False,,,False
+RESEARCH-02059,"The Real Estate (Regulation and Development) Act, 2016",2016-03-25,"Land, housing & urban development",Principal Act (other),train,264.0,-0.18181818181818182,Negative,False,,,False
+RESEARCH-02384,"The West Bengal Appropriation (Vote on Account) Act, 2016",2016-03-28,"Finance, tax & budget",Appropriation / budget,train,178.0,-0.4269662921348314,Negative,False,,,False
+RESEARCH-00041,"Bihar Excise (Amendment) Act, 2016",2016-03-31,"Finance, tax & budget",Amendment,train,74.0,0.05405405405405406,Neutral,False,,,False
+RESEARCH-00091,"Bihar Value Added Tax Act, 2016",2016-04-04,"Finance, tax & budget",Principal Act (other),train,72.0,0.16666666666666666,Neutral,False,,,False
+RESEARCH-00063,"Bihar Police Sub-ordinate Services Commission Act, 2016",2016-04-06,"Law, justice & policing",Establishment of an institution,train,110.0,-0.3181818181818182,Negative,False,,,False
+RESEARCH-00191,"Jharkhand Single Window Clearance Act, 2015",2016-04-06,Other / unclassified,Principal Act (other),train,110.0,-0.4818181818181818,Negative,False,,,False
+RESEARCH-00147,"Grant-In-Aid on Account of Terminal Benefits) Act, 2016",2016-04-07,Other / unclassified,Principal Act (other),train,53.0,-0.5660377358490566,Negative,False,,,False
+RESEARCH-02328,"The Uttarakhand Panchayati Raj Act, 2016",2016-04-07,Governance & public administration,Principal Act (other),train,203.0,0.009852216748768461,Neutral,False,,,False
+RESEARCH-02519,Uttarakhand Ground Water (Regulation and control of Management and Development,2016-04-07,"Agriculture, environment & water",Principal Act (other),train,158.0,-0.5063291139240507,Negative,False,,,False
+RESEARCH-01168,"The Haryana Enterprises Promotion Act, 2016",2016-04-11,"Industry, business & economy",Principal Act (other),train,48.0,-0.29166666666666674,Negative,False,,,False
+RESEARCH-01160,"The Haryana Backward Classes Commission Act, 2016 (9 of 2016)",2016-04-20,Social groups & identity,Establishment of an institution,train,182.0,-0.06593406593406592,Negative,False,,,False
+RESEARCH-01161,"The Haryana Backward Classes Commission Act,2016",2016-04-20,Social groups & identity,Establishment of an institution,train,60.0,-0.5666666666666667,Negative,False,,,False
+RESEARCH-01754,"The Mizoram Lokayukta (Amendment) Act, 2016",2016-04-22,"Law, justice & policing",Amendment,train,58.0,0.20689655172413793,Positive,False,,,False
+RESEARCH-02022,"The Punjab Settlement of Agricultural Indebtedness Act, 2016",2016-05-04,"Finance, tax & budget",Principal Act (other),train,32.0,-0.3125,Negative,False,,,False
+RESEARCH-00134,"Dr. Abdul Haq Urdu University Act, 2016",2016-05-07,Education & universities,Establishment of an institution,train,73.0,-0.35616438356164387,Negative,False,,,False
+RESEARCH-00551,"The Arunachal Pradesh (Tourism Trade Registration and Regulation) Act, 2016",2016-05-12,"Industry, business & economy",Principal Act (other),train,181.0,-0.04419889502762431,Negative,False,,,False
+RESEARCH-01955,"The Pragyan International University Act, 2016",2016-05-13,Education & universities,Establishment of an institution,train,138.0,-0.26811594202898553,Neutral,False,,,False
+RESEARCH-01986,The Punjab Bovine Breeding Act,2016-05-13,"Agriculture, environment & water",Principal Act (other),train,38.0,-0.05263157894736842,Neutral,False,,,False
+RESEARCH-02509,"Uttar Pradesh University of Medical Sciences Saifai,Etawah",2016-05-17,Education & universities,Establishment of an institution,train,127.0,-0.3779527559055118,Neutral,False,,,False
+RESEARCH-00199,Jharkhand homeguard amendment Act 2016,2016-05-24,Other / unclassified,Amendment,train,93.0,-0.06451612903225806,Neutral,False,,,False
+RESEARCH-01350,"The Jharkhand State Higher Education Council Act, 2016",2016-05-25,Education & universities,Establishment of an institution,train,41.0,-0.5121951219512195,Negative,False,,,False
+RESEARCH-01026,"The Dr. Rajendra Prasad Central Agricultural University Act, 2016",2016-05-28,Education & universities,Establishment of an institution,train,327.0,-0.290519877675841,Neutral,False,,,False
+RESEARCH-01294,"The Insolvency and Bankruptcy Code, 2016",2016-05-28,"Finance, tax & budget",Code / consolidating law,train,275.0,0.33454545454545453,Positive,False,,,False
+RESEARCH-01347,"The Jharkhand Public Land Encroachment (Amendment) Act, 2016",2016-06-06,"Land, housing & urban development",Amendment,train,40.0,-0.14999999999999997,Neutral,False,,,False
+RESEARCH-00350,"THE ASSAM EASE OF DOING BUSINESS ACT, 2016.(Single Document)",2016-06-29,"Industry, business & economy",Principal Act (other),train,81.0,-0.2345679012345679,Neutral,False,,,False
+RESEARCH-02128,"The Sikkim State Higher Education Council Act,2016",2016-07-04,Education & universities,Establishment of an institution,train,56.0,-0.2142857142857143,Negative,False,,,False
+RESEARCH-02142,"The Srinagar and Jammu Cluster Universities Act, 2016",2016-07-08,Education & universities,Establishment of an institution,train,140.0,-0.44285714285714284,Negative,False,,,False
+RESEARCH-01437,"The Karnataka State Rural Development and Panchayat Raj University Act, 2016",2016-07-23,Education & universities,Establishment of an institution,train,65.0,-0.3846153846153846,Negative,False,,,False
+RESEARCH-01681,"The Meghalaya Apartment Ownership Act, 2016 (Meghalaya Act NO.5 of 2016)",2016-07-23,"Agriculture, environment & water",Principal Act (other),train,130.0,-0.07692307692307693,Negative,False,,,False
+RESEARCH-00954,"The Child Labour (Prohibition and Regulation) Amendment Act, 2016",2016-07-29,"Law, justice & policing",Amendment,train,58.0,0.10344827586206895,Positive,False,,,False
+RESEARCH-02061,"The Regional Centre for Biotechnology Act, 2016",2016-07-29,"Land, housing & urban development",Principal Act (other),train,92.0,-0.13043478260869562,Neutral,False,,,False
+RESEARCH-01561,"The Maharashtra Electricity Duty Act, 2016",2016-08-08,"Finance, tax & budget",Principal Act (other),train,398.0,-0.2914572864321608,Neutral,False,,,False
+RESEARCH-01096,"The Goa Waste Management Corporation Act, 2016",2016-08-10,"Agriculture, environment & water",Establishment of an institution,train,55.0,-0.14545454545454545,Negative,False,,,False
+RESEARCH-02513,Uttarakhand Benami Transaction(Prohibition)Act,2016-08-10,"Law, justice & policing",Principal Act (other),train,77.0,-0.10389610389610393,Negative,False,,,False
+RESEARCH-00807,"The Bihar Fiscal Responsibility and Budget Management(Amendment) Act, 2016",2016-08-11,"Finance, tax & budget",Appropriation / budget,train,50.0,0.020000000000000018,Neutral,False,,,False
+RESEARCH-00092,"Bihar Value Added Tax(Amendment) Act, 2016",2016-08-12,"Finance, tax & budget",Amendment,train,61.0,-0.2786885245901639,Neutral,False,,,False
+RESEARCH-00851,"The Bihar Repeal of Laws (Which are no longer needed or relevant) Act, 2016",2016-08-16,Governance & public administration,Repeal,train,403.0,0.05459057071960299,Positive,False,,,False
+RESEARCH-00029,Bihar Agricultural University (Repeal) Act 2016,2016-08-17,Education & universities,Repeal,train,132.0,-0.29545454545454547,Negative,False,,,False
+RESEARCH-01592,"The Maharashtra Repealing Act, 2016",2016-08-24,Governance & public administration,Repeal,train,159.0,-0.27672955974842767,Negative,False,,,False
+RESEARCH-02525,Uttarakhand Residential University Act,2016-09-06,Education & universities,Establishment of an institution,train,149.0,-0.3355704697986577,Negative,False,,,False
+RESEARCH-01095,"The Goa Waste Management Act, 2016",2016-09-12,"Agriculture, environment & water",Principal Act (other),train,69.0,-0.6231884057971014,Negative,False,,,False
+RESEARCH-00421,"Tamil Nadu Government Servants (Conditions of Service) Act, 2016",2016-09-15,"Culture, language, religion & sports",Principal Act (other),train,159.0,-0.42767295597484273,Negative,False,,,False
+RESEARCH-01092,"The Goa Succession, Special Notaries and Inventory Proceeding Act, 2012",2016-09-19,Other / unclassified,Principal Act (other),train,120.0,-0.3666666666666667,Negative,False,,,False
+RESEARCH-01217,"The Haryana Vishwakarma Skill University Act, 2016 (25 of 2016)",2016-09-20,Education & universities,Establishment of an institution,train,110.0,-0.09090909090909091,Neutral,False,,,False
+RESEARCH-00200,Juvenile Justice (Child care and protection),2016-09-21,Health & social welfare,Principal Act (other),train,89.0,-0.15730337078651685,Negative,False,,,False
+RESEARCH-01348,"The Jharkhand Raksha Shakti University Act, 2016",2016-09-30,Education & universities,Establishment of an institution,train,42.0,-0.0714285714285714,Neutral,False,,,False
+RESEARCH-00672,"The Assam Kaziranga University Act, 2012 (Single Document)",2016-10-02,Education & universities,Establishment of an institution,train,222.0,-0.4459459459459459,Negative,False,,,False
+RESEARCH-01671,"The Manipur Technical University Act, 2016",2016-10-21,Education & universities,Establishment of an institution,train,193.0,0.07772020725388601,Positive,False,,,False
+RESEARCH-00472,The Amritsar Culture and Tourism Development Punjab Act,2016-11-17,"Industry, business & economy",Principal Act (other),train,433.0,0.12471131639722866,Positive,False,,,False
+RESEARCH-00277,Odisha Food Processing Policy - 2016,2016-11-24,"Industry, business & economy",Policy document,train,109.0,-0.13761467889908258,Neutral,False,,,False
+RESEARCH-00345,"St. Joseph University (Nagaland) Act, 2016",2016-11-28,Education & universities,Establishment of an institution,train,97.0,-0.5051546391752577,Negative,False,,,False
+RESEARCH-02338,The Uttarakhand state farmer comission Act,2016-11-30,"Agriculture, environment & water",Principal Act (other),train,36.0,-0.5833333333333333,Negative,False,,,False
+RESEARCH-01179,"The Haryana Law Officers (Engagement) Act, 2016 (18 of 2016)",2016-12-05,Other / unclassified,Principal Act (other),train,63.0,-0.12698412698412698,Neutral,False,,,False
+RESEARCH-00273,"Odisha Apparel Policy, 2016",2016-12-07,"Industry, business & economy",Policy document,train,185.0,-0.4486486486486487,Negative,False,,,False
+RESEARCH-01256,"The Himalayan Garhwal University Act, 2016",2016-12-07,Education & universities,Establishment of an institution,train,454.0,-0.2797356828193832,Neutral,False,,,False
+RESEARCH-02053,The Ras Bihari Bose Subharti University,2016-12-08,Education & universities,Establishment of an institution,train,133.0,-0.3308270676691729,Negative,False,,,False
+RESEARCH-00059,"Bihar Motor Vehicle Taxation (Amendment) Act, 2016",2016-12-16,"Finance, tax & budget",Amendment,train,68.0,0.044117647058823484,Positive,False,,,False
+RESEARCH-02318,"The Uttarakhand Fire & Emergency Service, Fire Prevention and Fire Safety Act, 2016",2016-12-19,Other / unclassified,Principal Act (other),train,198.0,-0.33333333333333337,Negative,False,,,False
+RESEARCH-02016,"The Punjab Regulation of Fee of Unaided Educational Institutions Act, 2016",2016-12-23,Education & universities,Principal Act (other),train,148.0,-0.46621621621621623,Negative,False,,,False
+RESEARCH-00284,"Odisha Municipal Services (General) Rules, 2016",2016-12-24,"Land, housing & urban development",Principal Act (other),train,59.0,-0.4067796610169492,Negative,False,,,False
+RESEARCH-01981,The Punjab Allotment of State: Government Land,2016-12-24,"Land, housing & urban development",Principal Act (other),train,65.0,-0.4307692307692308,Negative,False,,,False
+RESEARCH-00320,Rights of Persons with Disability,2016-12-27,Health & social welfare,Principal Act (other),train,191.0,-0.40314136125654443,Negative,False,,,False
+RESEARCH-00971,"The Commercial Courts Act, 2015",2016-12-31,"Law, justice & policing",Principal Act (other),train,57.0,0.15789473684210525,Neutral,False,,,False
+RESEARCH-01365,"The Karnataka Alteration of Names of Certain Places Act, 2016",2016-12-31,"Culture, language, religion & sports",Principal Act (other),train,105.0,-0.7142857142857142,Negative,False,,,False
+RESEARCH-01431,"The Karnataka State Civil Services (Regulation of Transfers and Postings of Forest Officers and Other Officials) Act, 2016",2017-01-04,"Agriculture, environment & water",Principal Act (other),train,266.0,-0.05639097744360905,Negative,False,,,False
+RESEARCH-01576,"The Maharashtra Metropolitan Region Development Authority Act, 2016",2017-01-10,"Land, housing & urban development",Establishment of an institution,train,36.0,-0.19444444444444448,Negative,False,,,False
+RESEARCH-02145,"The St. Xavier's University, Kolkata Act, 2016",2017-01-16,Education & universities,Establishment of an institution,train,132.0,-0.696969696969697,Negative,False,,,False
+RESEARCH-01517,"The Khammam (Metropolitan Area) Police Act, 2016",2017-01-19,"Law, justice & policing",Principal Act (other),train,349.0,-0.5472779369627507,Negative,False,,,False
+RESEARCH-02051,"The Ramagundam (Metropolitan Area) Police Act, 2016",2017-01-19,"Law, justice & policing",Principal Act (other),train,90.0,-0.6,Negative,False,,,False
+RESEARCH-02136,"The Specified Bank Notes (Cessation of Liabilities) Act, 2017",2017-02-27,"Finance, tax & budget",Principal Act (other),train,183.0,-0.02185792349726773,Negative,False,,,False
+RESEARCH-00366,"THE CHHATTISGARH APPROPRIATION (No.1) ACT, 2017",2017-03-08,"Finance, tax & budget",Appropriation / budget,train,189.0,0.005291005291005291,Neutral,False,,,False
+RESEARCH-01922,"The Odisha Municipal Finance Service (Method of Recruitment and Conditions of Service) Rules, 2017",2017-03-22,"Finance, tax & budget",Principal Act (other),train,42.0,-0.35714285714285715,Negative,False,,,False
+RESEARCH-02479,"The West Bengal Universities and Colleges (Administration and Regulation) Act, 2017",2017-03-22,Education & universities,Establishment of an institution,train,58.0,-0.27586206896551724,Negative,False,,,False
+RESEARCH-01477,"The Kerala Motor Vehicles Taxation (Validation) Act, 2017",2017-03-23,"Finance, tax & budget",Amendment,train,88.0,-0.47727272727272724,Negative,False,,,False
+RESEARCH-00671,"The Assam Junior Colleges (Provincialisation) Act, 2017",2017-04-01,Education & universities,Establishment of an institution,train,36.0,-0.1388888888888889,Negative,False,,,False
+RESEARCH-00891,"The Birsa Munda Tribal University Act, 2017",2017-04-01,Education & universities,Establishment of an institution,train,239.0,-0.14225941422594143,Negative,False,,,False
+RESEARCH-00257,"Mental Healthcare Act, 2017",2017-04-07,Health & social welfare,Principal Act (other),train,103.0,0.10679611650485438,Positive,False,,,False
+RESEARCH-01714,"The Mental Health Care Act, 2017",2017-04-07,Health & social welfare,Principal Act (other),train,69.0,-0.4927536231884058,Negative,False,,,False
+RESEARCH-00123,"Cotton University Act, 2017",2017-04-11,Education & universities,Establishment of an institution,train,226.0,-0.36283185840707965,Negative,False,,,False
+RESEARCH-00163,"Implementation of Baristha Bunakar Sahayata Yojana"" (Bbsy) for Weavers of Odisha",2017-04-11,Other / unclassified,Principal Act (other),train,30.0,-0.4666666666666667,Negative,False,,,False
+RESEARCH-00215,"Krishnaguru Adhyatmik Visvavidyalaya Act, 2017",2017-04-11,Education & universities,Establishment of an institution,train,362.0,-0.05801104972375687,Negative,False,,,False
+RESEARCH-00701,"The Assam Public Procurement Act, 2017",2017-04-11,Governance & public administration,Principal Act (other),train,82.0,-0.6097560975609756,Negative,False,,,False
+RESEARCH-00710,"The Assam State Higher Education Council Act, 2017",2017-04-11,Education & universities,Establishment of an institution,train,122.0,-0.48360655737704916,Negative,False,,,False
+RESEARCH-01133,"The Gujarat Self financed Schools (Regulation of Fees) Act, 2017",2017-04-12,Education & universities,Principal Act (other),train,61.0,-0.31147540983606553,Neutral,False,,,False
+RESEARCH-01262,"The Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome (Prevention and Control) Act, 2017",2017-04-20,Other / unclassified,Principal Act (other),train,140.0,0.1428571428571429,Positive,False,,,False
+RESEARCH-00064,"Bihar Private University (Amendment) Act, 2017",2017-04-21,Education & universities,Amendment,train,196.0,0.4438775510204082,Positive,False,,,False
+RESEARCH-00296,"Patna University (Amendment) Act, 2017",2017-04-21,Education & universities,Amendment,train,104.0,-0.40384615384615385,Negative,False,,,False
+RESEARCH-00538,"The Andhra Pradesh Tourism, Culture and Heritage Board Act, 2017",2017-04-26,"Industry, business & economy",Establishment of an institution,train,391.0,-0.002557544757033292,Negative,False,,,False
+RESEARCH-00498,"The Andhra Pradesh Energy University Act, 2017",2017-05-11,Education & universities,Establishment of an institution,train,64.0,-0.375,Negative,False,,,False
+RESEARCH-01563,"The Maharashtra Goods and Services Tax (Compensation to the Local Authorities) Act, 2017",2017-05-29,"Finance, tax & budget",Principal Act (other),train,182.0,0.13186813186813187,Neutral,False,,,False
+RESEARCH-00254,Malayalam Language Learning Act 2017,2017-06-02,"Culture, language, religion & sports",Principal Act (other),train,430.0,-0.25813953488372093,Negative,False,,,False
+RESEARCH-00661,"The Assam Goods and Services Tax Act, 2017",2017-06-02,"Finance, tax & budget",Principal Act (other),train,144.0,-0.048611111111111105,Negative,False,,,False
+RESEARCH-00632,"The Assam College Employees (Provincialisation) (Amendment) Act, 2017",2017-06-03,Education & universities,Amendment,train,43.0,-0.6511627906976745,Negative,False,,,False
+RESEARCH-01173,"The Haryana Goods and Service Tax Act, 2017 (19 of 2017)",2017-06-07,"Finance, tax & budget",Principal Act (other),train,32.0,0.25,Neutral,False,,,False
+RESEARCH-00553,"The Arunachal Pradesh Anatomy Act, 2017",2017-06-08,Other / unclassified,Principal Act (other),train,59.0,-0.5084745762711864,Negative,False,,,False
+RESEARCH-00016,"Arunachal Pradesh Goods and Services Tax Act, 2017 (as amended)",2017-06-15,"Finance, tax & budget",Amendment,train,114.0,0.05263157894736842,Neutral,False,,,False
+RESEARCH-01690,"The Meghalaya Goods and Services Tax Act, 2017 (Act No. 10 of 2017)",2017-06-15,"Finance, tax & budget",Principal Act (other),train,260.0,0.3076923076923076,Positive,False,,,False
+RESEARCH-00183,"Jharkhand Goods and Service Tax Act, 2017",2017-06-19,"Finance, tax & budget",Principal Act (other),train,38.0,0.05263157894736842,Positive,False,,,False
+RESEARCH-01232,"The Himachal Pradesh Goods and Services Tax Act, 2017",2017-06-23,"Finance, tax & budget",Principal Act (other),train,190.0,-0.05789473684210528,Negative,False,,,False
+RESEARCH-01010,"The Delhi Goods and Services Tax Act, 2017",2017-07-01,"Finance, tax & budget",Principal Act (other),train,90.0,0.06666666666666665,Positive,False,,,False
+RESEARCH-00544,"The Arka Jain University Act,2017",2017-07-04,Education & universities,Establishment of an institution,train,191.0,-0.3089005235602094,Negative,False,,,False
+RESEARCH-02095,"The Sarla Birla University Act, 2017",2017-07-04,Education & universities,Establishment of an institution,train,165.0,-0.2363636363636364,Neutral,False,,,False
+RESEARCH-02484,The Y.B.N. University Act 2017,2017-07-04,Education & universities,Establishment of an institution,train,143.0,-0.25874125874125875,Neutral,False,,,False
+RESEARCH-00162,"Higher Education Council (amendment)Act, 2008",2017-07-05,Education & universities,Amendment,train,276.0,0.21376811594202902,Positive,False,,,False
+RESEARCH-00415,Tamil Nadu Delimitation Commission Act 2017,2017-07-11,"Culture, language, religion & sports",Establishment of an institution,train,85.0,-0.1411764705882353,Negative,False,,,False
+RESEARCH-00416,"Tamil Nadu Delimitation Commission Act, 2017",2017-07-11,"Culture, language, religion & sports",Establishment of an institution,train,46.0,-0.4782608695652174,Negative,False,,,False
+RESEARCH-00575,"The Arunachal Pradesh Heritage Act, 2015",2017-07-15,"Culture, language, religion & sports",Principal Act (other),train,279.0,-0.09318996415770608,Negative,False,,,False
+RESEARCH-02169,"The Tamil Nadu Regulation of Rights and Responsibilities of Landlords and Tenants Act, 2017",2017-08-04,"Land, housing & urban development",Principal Act (other),train,122.0,0.016393442622950838,Positive,False,,,False
+RESEARCH-01625,"The Manipur Coaching Institute (Control and Regulation) Act, 2017",2017-08-31,Education & universities,Establishment of an institution,train,172.0,0.005813953488372103,Positive,False,,,False
+RESEARCH-01657,"The Manipur Private School (Registration and Regulation) Act, 2017",2017-08-31,Education & universities,Principal Act (other),train,269.0,-0.18215613382899626,Negative,False,,,False
+RESEARCH-00072,"Bihar Special Survey and Settlement (Amendment) Act, 2017",2017-09-04,"Land, housing & urban development",Amendment,train,36.0,0.16666666666666666,Neutral,False,,,False
+RESEARCH-00085,"Bihar State University Service Commission Act, 2017",2017-09-04,Education & universities,Establishment of an institution,train,212.0,-0.15566037735849056,Neutral,False,,,False
+RESEARCH-00823,"The Bihar Land Mutation Law (Amendment) Act, 2017",2017-09-04,"Land, housing & urban development",Amendment,train,229.0,-0.23144104803493448,Negative,False,,,False
+RESEARCH-00841,"The Bihar Panchayat Raj (Amendment) Act, 2017",2017-09-04,Governance & public administration,Amendment,train,190.0,0.21578947368421053,Positive,False,,,False
+RESEARCH-00882,"The Bihar Tenancy (Amendment) Act, 2017",2017-09-05,"Land, housing & urban development",Amendment,train,32.0,-0.46875,Negative,False,,,False
+RESEARCH-02461,"The West Bengal Scheduled Castes Advisory Council Act, 2017",2017-09-13,Social groups & identity,Establishment of an institution,train,113.0,-0.6017699115044247,Negative,False,,,False
+RESEARCH-01471,"The Kerala Medical Education (Regulation and Control of Admission to Private Medical Educational Institutions) Act, 2017",2017-09-16,Education & universities,Principal Act (other),train,30.0,-0.23333333333333334,Negative,False,,,False
+RESEARCH-01504,"The Kerala State Gooda and Services Tax Act, 2017 (20 of 2017)",2017-09-16,"Finance, tax & budget",Principal Act (other),train,35.0,0.17142857142857143,Positive,False,,,False
+RESEARCH-01050,"The Global University Arunachal Pradesh Act, 2015",2017-09-18,Education & universities,Establishment of an institution,train,62.0,-0.4193548387096774,Negative,False,,,False
+RESEARCH-00548,"The Arunachal Pradesh (Re-Organisation of Districts) (Amendment) Act, 2022",2017-09-22,Other / unclassified,Amendment,train,67.0,-0.23880597014925375,Negative,False,,,False
+RESEARCH-01938,"The Odisha State Higher Education Council Act, 2017",2017-10-17,Education & universities,Establishment of an institution,train,98.0,-0.4285714285714286,Negative,False,,,False
+RESEARCH-00352,"THE ASSAM STATE CAPITAL REGlON DEVELOPMENT AUTHORITY ACT, 2017",2017-10-30,"Land, housing & urban development",Establishment of an institution,train,475.0,-0.5768421052631578,Negative,False,,,False
+RESEARCH-00781,"The Bhattadev University Act, 2017",2017-10-30,Education & universities,Establishment of an institution,train,77.0,-0.6883116883116883,Negative,False,,,False
+RESEARCH-01617,"The Majuli Uniiversity of Culture Act, 2017",2017-10-30,"Culture, language, religion & sports",Principal Act (other),train,196.0,0.30102040816326536,Positive,False,,,False
+RESEARCH-02041,"The Rabindranath Tagore University Act, 2017",2017-10-30,Education & universities,Establishment of an institution,train,372.0,0.1881720430107527,Positive,False,,,False
+RESEARCH-01338,"The Jharkhand Aadhaar (Targeted Delivery of Financial and Other Subsidies,Benefits and Services) Act 2017",2017-11-03,Social groups & identity,Principal Act (other),train,110.0,-0.2545454545454546,Neutral,False,,,False
+RESEARCH-00192,"Jharkhand Special Court Act,2016",2017-11-14,"Law, justice & policing",Principal Act (other),train,199.0,0.26633165829145733,Positive,False,,,False
+RESEARCH-01935,"The Odisha Service of Engineers (Validation of Appointment) Act, 2017",2017-11-24,Governance & public administration,Amendment,train,294.0,-0.4931972789115647,Negative,False,,,False
+RESEARCH-01909,"The Odia University Act, 2017",2017-11-27,Education & universities,Establishment of an institution,train,91.0,-0.3076923076923077,Negative,False,,,False
+RESEARCH-01436,"The Karnataka State Road Safety Authority Act, 2017",2017-12-06,"Infrastructure, energy & transport",Establishment of an institution,train,336.0,-0.23809523809523808,Negative,False,,,False
+RESEARCH-00031,"Bihar Agriculture Market Yard Land Transfer Act, 2017",2017-12-13,"Agriculture, environment & water",Principal Act (other),train,329.0,-0.027355623100303927,Negative,False,,,False
+RESEARCH-00506,"The Andhra Pradesh Industrial Corridor Development Act, 2017",2018-01-04,"Infrastructure, energy & transport",Principal Act (other),train,229.0,-0.06986899563318777,Negative,False,,,False
+RESEARCH-01274,"The Indian Institute of Petroleum and Energy Act, 2017",2018-01-05,Education & universities,Establishment of an institution,train,50.0,-0.5399999999999999,Negative,False,,,False
+RESEARCH-02274,"The Uttar Pradesh Prayagraj Mela Authority, Allahabad Act, 2017",2018-01-06,Governance & public administration,Establishment of an institution,train,41.0,-0.19512195121951217,Neutral,False,,,False
+RESEARCH-02287,"The Uttar Pradesh Repealing Act, 2017",2018-01-06,Governance & public administration,Repeal,train,35.0,-0.6571428571428571,Negative,False,,,False
+RESEARCH-00892,"The Biswa Bangla Biswabidyalay Act, 2017",2018-01-09,Education & universities,Establishment of an institution,train,185.0,-0.10810810810810811,Negative,False,,,False
+RESEARCH-02132,"The Sister Nivedita University Act, 2017",2018-01-09,Education & universities,Establishment of an institution,train,39.0,0.28205128205128205,Positive,False,,,False
+RESEARCH-00413,Tamil Nadu Business Facilitation Act 2018,2018-01-25,"Industry, business & economy",Principal Act (other),train,223.0,0.06726457399103142,Positive,False,,,False
+RESEARCH-01343,"The Jharkhand Compulsory Registration of Marriages Act, 2017",2018-02-20,Social groups & identity,Principal Act (other),train,167.0,-0.5988023952095808,Negative,False,,,False
+RESEARCH-01334,"The Jammu and Kashmir State Road Safety Council Act, 2018",2018-02-21,"Infrastructure, energy & transport",Establishment of an institution,train,40.0,-0.45000000000000007,Negative,False,,,False
+RESEARCH-00278,Odisha Gazette - 2018,2018-02-24,Other / unclassified,Principal Act (other),train,71.0,-0.1267605633802817,Negative,False,,,False
+RESEARCH-02395,"The West Bengal Appropriation Act, 2018",2018-03-05,"Finance, tax & budget",Appropriation / budget,train,53.0,-0.4339622641509434,Negative,False,,,False
+RESEARCH-01664,"The Manipur Public Service Commission (Additional Functions) Second Amendment Act, 2018",2018-03-12,Governance & public administration,Amendment,train,362.0,0.4640883977900553,Positive,False,,,False
+RESEARCH-00309,Punjab State Development Tax,2018-03-19,"Finance, tax & budget",Principal Act (other),train,82.0,-0.3658536585365854,Negative,False,,,False
+RESEARCH-00655,"The Assam Excise Act, 2018",2018-03-22,"Finance, tax & budget",Principal Act (other),train,205.0,-0.43902439024390244,Negative,False,,,False
+RESEARCH-02117,"The Sikkim Law University Act, 2018",2018-03-22,Education & universities,Establishment of an institution,train,70.0,0.18571428571428572,Positive,False,,,False
+RESEARCH-01799,The Nagaland Appropriation (No.1) Act 2018,2018-03-26,"Finance, tax & budget",Appropriation / budget,train,194.0,-0.09278350515463918,Negative,False,,,False
+RESEARCH-01805,The Nagaland Appropriation (No.2) Act 2018,2018-03-26,"Finance, tax & budget",Appropriation / budget,train,112.0,-0.6428571428571429,Negative,False,,,False
+RESEARCH-01214,"The Haryana State Higher Education Council Act, 2018 (4 of 2018)",2018-03-27,Education & universities,Establishment of an institution,train,118.0,-0.211864406779661,Neutral,False,,,False
+RESEARCH-02181,"The Telangana (Compulsory Teaching and Learning of Telugu in Schools) Act, 2018",2018-03-29,Education & universities,Principal Act (other),train,67.0,0.08955223880597013,Positive,False,,,False
+RESEARCH-02195,"The Telangana Panchayat Raj Act, 2018",2018-03-29,Governance & public administration,Principal Act (other),train,37.0,-0.35135135135135137,Negative,False,,,False
+RESEARCH-02197,"The Telangana Police (Selection and Appointment of Director General of Police (Head of Police Force)) Act, 2018",2018-03-29,"Law, justice & policing",Principal Act (other),train,211.0,-0.3317535545023697,Negative,False,,,False
+RESEARCH-00943,"The Chhattisgarh Repealing Act, 2018",2018-04-03,Governance & public administration,Repeal,train,133.0,-0.3609022556390978,Negative,False,,,False
+RESEARCH-01569,"The Maharashtra Infrastructure Development Enabling Authority Act, 2018",2018-04-09,"Infrastructure, energy & transport",Establishment of an institution,train,45.0,-0.06666666666666665,Negative,False,,,False
+RESEARCH-00749,"The Assam Yoga Council Act, 2018",2018-04-10,"Culture, language, religion & sports",Establishment of an institution,train,200.0,-0.46,Negative,False,,,False
+RESEARCH-01176,"The Haryana Kisan Kalyan Pradhikaran Act, 2018 (13 of 2018)",2018-04-10,Other / unclassified,Principal Act (other),train,183.0,0.20218579234972678,Positive,False,,,False
+RESEARCH-00275,"Odisha Civil Defence Group A and B officers (Method of recruitment and condition of service) Rules, 2018",2018-04-12,Governance & public administration,Principal Act (other),train,603.0,-0.3714759535655058,Negative,False,,,False
+RESEARCH-02323,"The Uttarakhand Language Institutions Act, 2018",2018-04-12,Education & universities,Principal Act (other),train,700.0,0.07428571428571429,Positive,False,,,False
+RESEARCH-02332,"The Uttarakhand Retirement Benefits Act, 2018",2018-04-13,Other / unclassified,Principal Act (other),train,392.0,0.028061224489795866,Positive,False,,,False
+RESEARCH-00343,"Sri Sathya Sai University for Human Excellence Act, 2018",2018-04-19,Education & universities,Establishment of an institution,train,51.0,-0.05882352941176472,Negative,False,,,False
+RESEARCH-01308,"The Jagath University Act, 2018",2018-04-19,Education & universities,Establishment of an institution,train,138.0,-0.18115942028985504,Negative,False,,,False
+RESEARCH-00598,The Arunachal Pradesh State Road (Regulation and Development),2018-05-01,"Infrastructure, energy & transport",Principal Act (other),train,509.0,-0.15913555992141454,Negative,False,,,False
+RESEARCH-00039,"Bihar Electricity Duty Act, 2018",2018-05-04,"Finance, tax & budget",Principal Act (other),train,71.0,-0.3380281690140845,Negative,False,,,False
+RESEARCH-02320,The Uttarakhand Freedom of Religion Act,2018-05-14,"Culture, language, religion & sports",Principal Act (other),train,56.0,-0.30357142857142855,Negative,False,,,False
+RESEARCH-00692,"The Assam Non-Government Educational Institutions (Regulation of Fees) Act, 2018",2018-05-18,Education & universities,Principal Act (other),train,145.0,-0.6758620689655173,Negative,False,,,False
+RESEARCH-00418,"Tamil Nadu Establishment of Private Law Colleges (Regulation) Act, 2018",2018-07-12,Education & universities,Establishment of an institution,train,68.0,-0.7352941176470589,Negative,False,,,False
+RESEARCH-02175,"The Tamil Nadu Sugarcane (Regulation of Purchase Price) Act, 2018",2018-07-12,"Culture, language, religion & sports",Principal Act (other),train,151.0,-0.5364238410596026,Negative,False,,,False
+RESEARCH-00924,"The Chhattisgarh Aadhaar Act, 2018",2018-07-18,Social groups & identity,Principal Act (other),train,121.0,-0.2892561983471074,Neutral,False,,,False
+RESEARCH-02238,"The Tripura Sports (Registration, Recognition and Regulation of Association) Act, 2018",2018-07-24,"Infrastructure, energy & transport",Principal Act (other),train,137.0,-0.3284671532846716,Neutral,False,,,False
+RESEARCH-00233,"Madhya Pradesh Ladli Laxmi (Balika Protsahan) Act,2018",2018-07-31,Other / unclassified,Principal Act (other),train,74.0,-0.32432432432432434,Negative,False,,,False
+RESEARCH-01012,"The Delhi Netaji Subhas University of Technology Act, 2017",2018-08-01,Education & universities,Establishment of an institution,train,42.0,-0.6428571428571429,Negative,False,,,False
+RESEARCH-00932,"The Chhattisgarh Fire and Emergency Service Act, 2018",2018-08-02,Governance & public administration,Principal Act (other),train,588.0,-0.1224489795918367,Negative,False,,,False
+RESEARCH-00043,Bihar Finance Act 2018,2018-08-03,"Finance, tax & budget",Appropriation / budget,train,198.0,-0.16666666666666663,Negative,False,,,False
+RESEARCH-01892,"The National Sports University Act, 2018",2018-08-17,Education & universities,Establishment of an institution,train,415.0,-0.6409638554216868,Negative,False,,,False
+RESEARCH-00060,"Bihar Motor Vehicle Taxation (Amendment) Act, 2018",2018-09-08,"Finance, tax & budget",Amendment,train,76.0,-0.22368421052631576,Negative,False,,,False
+RESEARCH-02244,The Union Territory of Dadra and Nagar Haveli and Daman and Diu State Higher Education Council Act. 2018,2018-09-08,Education & universities,Establishment of an institution,train,160.0,-0.08749999999999997,Negative,False,,,False
+RESEARCH-00152,HIV/AIDS Act 2017,2018-09-10,Health & social welfare,Principal Act (other),train,285.0,-0.038596491228070184,Negative,False,,,False
+RESEARCH-00138,Dr. Ram Manohar Lohia Institute of Medical Sciences Act 2015,2018-09-12,Education & universities,Establishment of an institution,train,116.0,-0.25862068965517243,Neutral,False,,,False
+RESEARCH-01002,"The Dakshin Dinajpur University Act, 2018",2018-10-01,Education & universities,Establishment of an institution,train,52.0,-0.6538461538461539,Negative,False,,,False
+RESEARCH-01791,"The Murshidabad University Act, 2018",2018-10-01,Education & universities,Establishment of an institution,train,49.0,-0.5714285714285715,Negative,False,,,False
+RESEARCH-01107,"The Gujarat Biotechnology University Act, 2018",2018-10-08,Education & universities,Establishment of an institution,train,84.0,-0.6547619047619048,Negative,False,,,False
+RESEARCH-00186,"Jharkhand Motor Vehicle Taxation(Amendment) Act, 2018",2018-10-09,"Finance, tax & budget",Amendment,train,203.0,0.24630541871921185,Positive,False,,,False
+RESEARCH-00908,"The Capital University Act, 2018",2018-10-11,Education & universities,Establishment of an institution,train,376.0,-0.1303191489361702,Negative,False,,,False
+RESEARCH-02042,"The Radha Govind University Act, 2018",2018-10-11,Education & universities,Establishment of an institution,train,49.0,-0.04081632653061226,Neutral,False,,,False
+RESEARCH-01132,"The Gujarat Scheduled Castes, Scheduled Tribes and Other Backward Classes (Regulation of Issuance and Verification of Caste Certificates) Act, 2018",2018-10-16,Social groups & identity,Principal Act (other),train,191.0,-0.43455497382198954,Negative,False,,,False
+RESEARCH-00659,"The Assam Goods and Services Tax (Amendment) Act, 2018",2018-10-24,"Finance, tax & budget",Amendment,train,181.0,0.05524861878453036,Positive,False,,,False
+RESEARCH-00730,"The Assam Tea Plantations Employees' Welfare Fund (Amendment) Act, 2018",2018-10-24,Health & social welfare,Amendment,train,176.0,-0.17045454545454547,Negative,False,,,False
+RESEARCH-00482,"The Andhra Pradesh Acts and Regulations (Repeal) Act, 2018",2018-10-25,Governance & public administration,Repeal,train,35.0,-0.37142857142857144,Negative,False,,,False
+RESEARCH-01042,"The Gandhi Institute of Engineering and Technology University, Odisha Act, 2018",2018-11-03,Education & universities,Establishment of an institution,train,338.0,-0.5118343195266272,Negative,False,,,False
+RESEARCH-00668,"The Assam Inland Water Transport Regulatory Authority Act, 2018",2018-12-10,"Agriculture, environment & water",Establishment of an institution,train,213.0,-0.4366197183098592,Negative,False,,,False
+RESEARCH-01316,"The Jammu and Kashmir Governor's Special Security Force Act, 2018",2018-12-13,"Law, justice & policing",Principal Act (other),train,191.0,-0.01570680628272253,Negative,False,,,False
+RESEARCH-00388,"THE JAMMU AND KASHMIR METROPOLITAN REGION DEVELOPMENT AUTHORITES Act, 2018",2018-12-16,"Land, housing & urban development",Principal Act (other),train,286.0,-0.03146853146853151,Negative,False,,,False
+RESEARCH-00753,The Atal Bihari VajpayeeMedical University Uttar Pradesh Act 2018,2018-12-22,Education & universities,Establishment of an institution,train,136.0,-0.13235294117647056,Negative,False,,,False
+RESEARCH-01362,"The Kanyashree University Act, 2018",2019-01-02,Education & universities,Establishment of an institution,train,99.0,-0.5252525252525253,Negative,False,,,False
+RESEARCH-00420,Tamil Nadu Goods and Services Tax Amendment Act(TN Act 3 of 2019),2019-01-14,"Finance, tax & budget",Amendment,train,191.0,0.026178010471204216,Positive,False,,,False
+RESEARCH-01636,"The Manipur International University Act, 2018",2019-01-23,Education & universities,Establishment of an institution,train,105.0,-0.4285714285714286,Negative,False,,,False
+RESEARCH-01251,"The Himachal Pradesh State Higher Education Council (Establishment and Regulation) Act, 2018",2019-02-01,Education & universities,Establishment of an institution,train,191.0,0.4345549738219896,Positive,False,,,False
+RESEARCH-00434,"Tamil Nadu Private universities Act, 2019",2019-02-23,Education & universities,Establishment of an institution,train,177.0,-0.5988700564971751,Negative,False,,,False
+RESEARCH-00852,"The Bihar Reservation in vacancies in posts and in services and in Admissions in the Educational Institutions (For Economically Weaker Sections) ACT, 2019",2019-02-23,Education & universities,Principal Act (other),train,193.0,-0.5492227979274612,Negative,False,,,False
+RESEARCH-00791,"The Bihar Appropriation Act, 2019",2019-02-25,"Finance, tax & budget",Appropriation / budget,train,72.0,-0.625,Negative,False,,,False
+RESEARCH-00800,"The Bihar Elementary School Education Committee (Repeal) Act, 2019",2019-02-25,Education & universities,Repeal,train,49.0,-0.10204081632653061,Neutral,False,,,False
+RESEARCH-00844,"The Bihar Private Schools (Fee Regulation) Act, 2019",2019-02-25,Education & universities,Principal Act (other),train,101.0,-0.48514851485148514,Negative,False,,,False
+RESEARCH-01800,The Nagaland Appropriation (No.1) Act 2019,2019-02-26,"Finance, tax & budget",Appropriation / budget,train,194.0,0.38659793814432986,Positive,False,,,False
+RESEARCH-01226,"The Himachal Pradesh Appropriation Acts (Repeal) Act, 2019",2019-03-29,"Finance, tax & budget",Appropriation / budget,train,186.0,0.3763440860215054,Positive,False,,,False
+RESEARCH-01845,"The Nagaland Nursing Council Act, 2019",2019-05-03,Health & social welfare,Establishment of an institution,train,159.0,-0.2515723270440252,Negative,False,,,False
+RESEARCH-00323,"Sale - Purchase rule of Helicopter/Aeroplane, 2019",2019-05-17,Other / unclassified,Principal Act (other),train,185.0,-0.10810810810810811,Negative,False,,,False
+RESEARCH-01382,"The Karnataka Goods and Services Tax Act, 2017",2019-06-27,"Finance, tax & budget",Principal Act (other),train,53.0,0.018867924528301883,Positive,False,,,False
+RESEARCH-02075,"The Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement (Karnataka Amendment) Act, 2019",2019-07-16,"Land, housing & urban development",Amendment,train,35.0,-0.3142857142857142,Negative,False,,,False
+RESEARCH-01268,"The India International Arbitration Centre Act, 2019",2019-07-26,"Law, justice & policing",Principal Act (other),train,113.0,-0.1415929203539823,Negative,False,,,False
+RESEARCH-00411,"Tamil Nadu Bovine Breeding Act, 2019",2019-07-30,"Agriculture, environment & water",Principal Act (other),train,370.0,-0.1756756756756756,Negative,False,,,False
+RESEARCH-00762,"The Banning of Unregulated Deposit Schemes Act, 2019",2019-07-31,Other / unclassified,Principal Act (other),train,40.0,-0.49999999999999994,Negative,False,,,False
+RESEARCH-01792,"The Muslim Women (Protection of Rights on Marriage) Act, 2019",2019-07-31,Health & social welfare,Principal Act (other),train,77.0,0.03896103896103892,Positive,False,,,False
+RESEARCH-02275,"The Uttar Pradesh Private Universities Act, 2019",2019-08-05,Education & universities,Establishment of an institution,train,387.0,-0.5116279069767442,Negative,False,,,False
+RESEARCH-00433,"Tamil Nadu Private Schools (Regulation) Act, 2019",2019-08-07,Education & universities,Principal Act (other),train,72.0,-0.48611111111111116,Negative,False,,,False
+RESEARCH-02303,"The Uttar Pradesh State Emblem (Prohibition of Improper Use) Act, 2019",2019-08-07,"Law, justice & policing",Principal Act (other),train,189.0,-0.3862433862433863,Negative,False,,,False
+RESEARCH-00969,"The Code on Wages, 2019",2019-08-08,Labour & employment,Code / consolidating law,train,288.0,-0.19444444444444442,Negative,False,,,False
+RESEARCH-00122,"Consumer Protection Act, 2019",2019-08-09,"Industry, business & economy",Principal Act (other),train,68.0,-0.08823529411764708,Negative,False,,,False
+RESEARCH-00977,"The Consumer Protection Act, 2019",2019-08-09,"Industry, business & economy",Principal Act (other),train,440.0,0.036363636363636376,Neutral,False,,,False
+RESEARCH-01330,"The Jammu and Kashmir Reorganisation Act, 2019",2019-08-09,Other / unclassified,Principal Act (other),train,235.0,-0.046808510638297884,Neutral,False,,,False
+RESEARCH-00061,"Bihar Motor Vehicle Taxation (Amendment) Act, 2019",2019-08-16,"Finance, tax & budget",Amendment,train,96.0,-0.041666666666666685,Negative,False,,,False
+RESEARCH-00488,"The Andhra Pradesh Commission for Backward Classes other than Scheduled Castes and Scheduled Tribes in the State of Andhra Pradesh Act, 2019",2019-08-16,Social groups & identity,Establishment of an institution,train,185.0,-0.032432432432432434,Neutral,False,,,False
+RESEARCH-00497,"The Andhra Pradesh Employment of Local Candidates in the Industries/Factories Act, 2019",2019-08-17,Labour & employment,Principal Act (other),train,108.0,-0.5462962962962963,Negative,False,,,False
+RESEARCH-01112,"The Gujarat Domestic Water Supply (Protection) Act,2019",2019-08-22,"Agriculture, environment & water",Principal Act (other),train,74.0,-0.581081081081081,Negative,False,,,False
+RESEARCH-01547,"The Maharaja Bhupinder Singh Punjab Sports University Act, 2019",2019-08-29,Education & universities,Establishment of an institution,train,182.0,-0.010989010989011005,Negative,False,,,False
+RESEARCH-00260,"Motor Vehicles (Amendment) Act, 2019",2019-08-30,"Infrastructure, energy & transport",Amendment,train,73.0,-0.2602739726027397,Negative,False,,,False
+RESEARCH-00723,"The Assam Taxation (on Specified Lands) (Amendment) Act, 2019",2019-09-04,"Finance, tax & budget",Amendment,train,50.0,-0.43999999999999995,Negative,False,,,False
+RESEARCH-00597,"The Arunachal Pradesh State Higher Education Council Act, 2019 (Act No. 7 of 2019)",2019-09-05,Education & universities,Establishment of an institution,train,237.0,0.13080168776371304,Positive,False,,,False
+RESEARCH-02035,"The Punjab Urban Transport Fund Act, 2019",2019-09-17,"Land, housing & urban development",Principal Act (other),train,90.0,-0.3666666666666667,Negative,False,,,False
+RESEARCH-02221,"The Tripura Electricity Duty Act, 2019",2019-10-04,"Finance, tax & budget",Principal Act (other),train,145.0,-0.38620689655172413,Negative,False,,,False
+RESEARCH-02222,"The Tripura Essential Services Maintenance Act, 2019",2019-10-04,"Land, housing & urban development",Principal Act (other),train,72.0,-0.20833333333333331,Negative,False,,,False
+RESEARCH-02194,"The Telangana Municipalities Act, 2019",2019-10-09,"Land, housing & urban development",Principal Act (other),train,35.0,-0.08571428571428569,Negative,False,,,False
+RESEARCH-00135,"Dr. B.R. Ambedkar School of Economics University, Bengaluru Act, 2018",2019-10-16,Education & universities,Establishment of an institution,train,228.0,0.07017543859649122,Positive,False,,,False
+RESEARCH-02154,"The Swami Vivekananda University Act, 2019",2019-11-14,Education & universities,Establishment of an institution,train,409.0,-0.5354523227383863,Negative,False,,,False
+RESEARCH-01205,"The Haryana Service of Engineers, Group A, Public Works (Buildings and Roads) Department Act, 2019 (38 of 2019)",2019-11-17,"Infrastructure, energy & transport",Principal Act (other),train,153.0,-0.5686274509803921,Negative,False,,,False
+RESEARCH-02214,"The Transgender Persons (Protection of Rights) Act, 2019",2019-12-05,Health & social welfare,Principal Act (other),train,471.0,-0.5031847133757962,Negative,False,,,False
+RESEARCH-00998,"The Dadra and Nagar Haveli and Daman and Diu (Merger of Union Territories) Act, 2019",2019-12-09,Governance & public administration,Principal Act (other),train,234.0,-0.5256410256410257,Negative,False,,,False
+RESEARCH-02060,"The Recycling of Ships Act, 2019",2019-12-13,"Agriculture, environment & water",Principal Act (other),train,164.0,-0.5426829268292682,Negative,False,,,False
+RESEARCH-01457,The Kerala Farmer's Welfare Fund Act 2018,2019-12-20,Health & social welfare,Principal Act (other),train,137.0,-0.5547445255474452,Negative,False,,,False
+RESEARCH-02149,"The Statue of Unity Area Development and Tourism Governance Act, 2019",2019-12-20,"Industry, business & economy",Principal Act (other),train,376.0,0.007978723404255317,Positive,False,,,False
+RESEARCH-00517,"The Andhra Pradesh Millets Board Act, 2019",2020-01-03,"Agriculture, environment & water",Establishment of an institution,train,58.0,-0.17241379310344823,Negative,False,,,False
+RESEARCH-00523,"The Andhra Pradesh Pulses Board Act, 2020",2020-01-03,Other / unclassified,Establishment of an institution,train,170.0,-0.2764705882352941,Negative,False,,,False
+RESEARCH-00407,"THE UTTARAKHAND CHAR DHAM DEVASTHANAM MANAGEMENT Act, 2019",2020-01-15,Other / unclassified,Principal Act (other),train,149.0,-0.08724832214765099,Negative,False,,,False
+RESEARCH-02319,"The Uttarakhand Former Chief Minister Facility (Residential and Other Facilities) Act, 2019",2020-01-15,Governance & public administration,Principal Act (other),train,325.0,-0.24,Negative,False,,,False
+RESEARCH-00359,"THE BIHAR STATE HIGHER EDUCATION COUNCIL Act, 2018",2020-01-16,Education & universities,Establishment of an institution,train,34.0,-0.2647058823529412,Neutral,False,,,False
+RESEARCH-01083,"The Goa Private Universities Act, 2020",2020-02-07,Education & universities,Establishment of an institution,train,175.0,-0.5942857142857143,Negative,False,,,False
+RESEARCH-02037,"The Punjab Water Resources (Management and Regulation) Act, 2020",2020-02-12,"Agriculture, environment & water",Principal Act (other),train,185.0,-0.07027027027027027,Negative,False,,,False
+RESEARCH-01013,"The Delhi Skill and Entrepreneurship University Act, 2019",2020-02-26,Education & universities,Establishment of an institution,train,110.0,-0.28181818181818186,Neutral,False,,,False
+RESEARCH-02273,"The Uttar Pradesh Police and Forensic Science University Act, 2020",2020-03-06,Education & universities,Establishment of an institution,train,174.0,-0.38505747126436785,Negative,False,,,False
+RESEARCH-01557,"The Maharashtra Compulsory Teaching and Learning of Marathi Language in Schools Act, 2020",2020-03-09,Education & universities,Principal Act (other),train,33.0,-0.12121212121212122,Neutral,False,,,False
+RESEARCH-00916,"The Central Sanskrit Universities Act, 2020",2020-03-25,Education & universities,Establishment of an institution,train,186.0,0.29569892473118276,Positive,False,,,False
+RESEARCH-01190,"The Haryana Pond and Waste Water Management Authority Act, 2020 (8 of 2020)",2020-03-31,"Agriculture, environment & water",Establishment of an institution,train,70.0,0.2142857142857143,Neutral,False,,,False
+RESEARCH-02002,"The Punjab Management and Transfer of Municipal Properties Act, 2020",2020-04-01,"Land, housing & urban development",Principal Act (other),train,51.0,-0.47058823529411764,Negative,False,,,False
+RESEARCH-00940,"The Chhattisgarh Plastic and Other Non Biodegradable Material (Regulation of Use and Disposal) Act, 2020",2020-04-15,"Agriculture, environment & water",Principal Act (other),train,189.0,-0.291005291005291,Negative,False,,,False
+RESEARCH-02009,"The Punjab Prisons Development Board Act, 2020",2020-04-17,"Law, justice & policing",Establishment of an institution,train,32.0,-0.375,Negative,False,,,False
+RESEARCH-01386,"The Karnataka Innovation Authority Act, 2020",2020-04-27,Governance & public administration,Establishment of an institution,train,192.0,-0.19791666666666669,Negative,False,,,False
+RESEARCH-02489,The witness protection Act,2020-05-06,"Law, justice & policing",Principal Act (other),train,781.0,-0.5723431498079385,Negative,False,,,False
+RESEARCH-00120,Clinical Establishment ACT,2020-05-20,Health & social welfare,Principal Act (other),train,70.0,-0.24285714285714288,Neutral,False,,,False
+RESEARCH-01830,"The Nagaland Goods and Services Tax (Amendment) Act, 2020",2020-06-10,"Finance, tax & budget",Amendment,train,253.0,-0.035573122529644285,Neutral,False,,,False
+RESEARCH-00338,"Soban singh jeena University Act,2019",2020-06-22,Education & universities,Establishment of an institution,train,82.0,-0.2682926829268293,Neutral,False,,,False
+RESEARCH-01996,"The Punjab Excise Act, 1914",2020-06-22,"Finance, tax & budget",Principal Act (other),train,40.0,0.4,Positive,False,,,False
+RESEARCH-02138,"The Sreenarayanaguru Open University Act, 2021",2020-07-25,Education & universities,Establishment of an institution,train,200.0,-0.41000000000000003,Negative,False,,,False
+RESEARCH-00049,"Bihar Goods and Services Tax (Amendment) Act, 2020",2020-08-10,"Finance, tax & budget",Amendment,train,36.0,0.02777777777777779,Neutral,False,,,False
+RESEARCH-00050,"Bihar Goods and Services Tax (Second Amendment) Act, 2020",2020-08-10,"Finance, tax & budget",Amendment,train,57.0,-0.017543859649122806,Neutral,False,,,False
+RESEARCH-00067,"Bihar Public Works Contracts Disputes Arbitration Tribunal (Amendment) Act, 2020",2020-08-10,"Law, justice & policing",Amendment,train,35.0,0.39999999999999997,Positive,False,,,False
+RESEARCH-00787,"The Bihar Agriculture Land (Conversion for Non-Agriculture Purposes) (Amendment) Act, 2020",2020-08-10,"Agriculture, environment & water",Amendment,train,374.0,-0.4411764705882353,Negative,False,,,False
+RESEARCH-00880,"The Bihar Taxation Laws (Relaxation of Period of Limitation Provisions) Act, 2020",2020-08-10,"Finance, tax & budget",Principal Act (other),train,125.0,-0.16799999999999998,Neutral,False,,,False
+RESEARCH-02300,"The Uttar Pradesh Special Security Force Act, 2020",2020-08-28,"Law, justice & policing",Principal Act (other),train,98.0,-0.29591836734693877,Negative,False,,,False
+RESEARCH-02285,"The Uttar Pradesh Recovery of Damages to Public and Private Property Act, 2020",2020-08-31,"Land, housing & urban development",Principal Act (other),train,46.0,0.08695652173913043,Positive,False,,,False
+RESEARCH-02203,"The Telangana State Building Permission Approval and Self Certification System (TS-bPASS) Act, 2020",2020-09-19,Other / unclassified,Principal Act (other),train,161.0,-0.6770186335403727,Negative,False,,,False
+RESEARCH-00263,National Commission for Indian System of Medicine Act 2020,2020-09-20,Health & social welfare,Establishment of an institution,train,32.0,-0.46875,Negative,False,,,False
+RESEARCH-01874,"The National Commission for Homoeopathy Act, 2020",2020-09-20,Governance & public administration,Establishment of an institution,train,39.0,-0.10256410256410259,Negative,False,,,False
+RESEARCH-01875,"The National Commission for Indian System of Medicine Act, 2020",2020-09-20,Health & social welfare,Establishment of an institution,train,42.0,-0.2857142857142857,Neutral,False,,,False
+RESEARCH-01299,"The Institute of Teaching and Research in Ayurveda Act, 2020",2020-09-21,Education & universities,Establishment of an institution,train,69.0,-0.6956521739130435,Negative,False,,,False
+RESEARCH-00981,"The Contract Labour (Regulation and Abolition) (Punjab Amendment) Act, 2020 (Punjab Act No. 13 of 2020) as extended to chandigarh",2020-09-22,Labour & employment,Amendment,train,191.0,-0.47120418848167545,Negative,False,,,False
+RESEARCH-01323,"The Jammu and Kashmir Official Languages Act, 2020",2020-09-26,"Culture, language, religion & sports",Principal Act (other),train,34.0,-0.6470588235294117,Negative,False,,,False
+RESEARCH-00968,"The Code on Social Security, 2020",2020-09-28,Labour & employment,Code / consolidating law,train,288.0,-0.020833333333333315,Negative,False,,,False
+RESEARCH-01292,"The Industrial Relations Code, 2020",2020-09-28,Labour & employment,Code / consolidating law,train,266.0,-0.31578947368421056,Negative,False,,,False
+RESEARCH-01908,"The Occupational Safety, Health and Working Conditions Code, 2020",2020-09-28,Health & social welfare,Code / consolidating law,train,174.0,-0.26436781609195403,Negative,False,,,False
+RESEARCH-00341,"Sri Guru Teg Bahadur State University of Law, Punjab Act, 2020",2020-09-30,Education & universities,Establishment of an institution,train,99.0,0.1515151515151515,Positive,False,,,False
+RESEARCH-00895,"The Board of Open Schooling and Skill Education, Sikkim Act, 2020",2020-10-08,Education & universities,Establishment of an institution,train,324.0,-0.4845679012345679,Negative,False,,,False
+RESEARCH-02176,"The Tamil Nadu Taxation Laws (Relaxation of Certain Provisions) Act, 2020",2020-10-17,"Finance, tax & budget",Principal Act (other),train,97.0,0.07216494845360827,Positive,False,,,False
+RESEARCH-00666,"The Assam Heritage(Tangible) Protection, Preservation, Conservation and Maintenance Act, 2020",2020-10-19,"Land, housing & urban development",Principal Act (other),train,194.0,-0.3814432989690722,Negative,False,,,False
+RESEARCH-00901,"The Bruhat Bengaluru Mahanagara Palike Act, 2020",2020-10-21,Other / unclassified,Principal Act (other),train,36.0,-0.41666666666666674,Negative,False,,,False
+RESEARCH-00980,"The Contract Labour (Regulation and Abolition) (Bihar Amendment) Act, 2020",2020-11-18,Labour & employment,Amendment,train,45.0,-0.04444444444444445,Negative,False,,,False
+RESEARCH-02080,The Rights of Persons with Disabilities Act. 2016,2020-11-22,Health & social welfare,Principal Act (other),train,120.0,-0.33333333333333326,Negative,False,,,False
+RESEARCH-01349,"The Jharkhand State Council for Physiotherapy Act, 2020",2020-12-03,Governance & public administration,Establishment of an institution,train,58.0,0.0,Neutral,False,,,False
+RESEARCH-00436,"Tamil Nadu Repealing (Second) Act, 2020",2020-12-11,"Culture, language, religion & sports",Repeal,train,52.0,-0.07692307692307693,Negative,False,,,False
+RESEARCH-00189,"Jharkhand Rajya Seva Dene Ki Guarantee (Sanshodhan) Act, 2020",2020-12-17,Other / unclassified,Principal Act (other),train,90.0,-0.30000000000000004,Negative,False,,,False
+RESEARCH-00535,"The Andhra Pradesh State Development Corporation Act, 2020",2020-12-23,"Land, housing & urban development",Establishment of an institution,train,148.0,-0.7297297297297297,Negative,False,,,False
+RESEARCH-00500,"The Andhra Pradesh Fisheries University Act, 2020",2020-12-28,Education & universities,Establishment of an institution,train,79.0,-0.4050632911392405,Negative,False,,,False
+RESEARCH-01570,"The Maharashtra International Sports University Act, 2020",2020-12-28,Education & universities,Establishment of an institution,train,94.0,-0.4148936170212766,Negative,False,,,False
+RESEARCH-01056,"The Goa (Regulation of House Building Advance) Act, 2021",2021-01-28,Other / unclassified,Principal Act (other),train,484.0,0.09917355371900827,Positive,False,,,False
+RESEARCH-02247,"The University of Engineering and Technology Roorkee Act, 2020",2021-02-15,Education & universities,Establishment of an institution,train,104.0,-0.09615384615384615,Negative,False,,,False
+RESEARCH-01616,"The Major Port Authorities Act, 2021",2021-02-17,"Infrastructure, energy & transport",Principal Act (other),train,263.0,-0.596958174904943,Negative,False,,,False
+RESEARCH-01658,"The Manipur Private Universities Act, 2021",2021-02-23,Education & universities,Establishment of an institution,train,45.0,-0.33333333333333337,Negative,False,,,False
+RESEARCH-02386,"The West Bengal Appropriation (Vote on Account) Act, 2021",2021-02-23,"Finance, tax & budget",Appropriation / budget,train,285.0,0.010526315789473717,Positive,False,,,False
+RESEARCH-02261,"The Uttar Pradesh Educational Institutions (Reservation in Teacher's Cadre) Act, 2021",2021-03-05,Education & universities,Principal Act (other),train,72.0,-0.3888888888888889,Negative,False,,,False
+RESEARCH-02284,"The Uttar Pradesh Qualifying Service for Pension and Validation Act, 2021",2021-03-05,Health & social welfare,Amendment,train,192.0,-0.29166666666666663,Negative,False,,,False
+RESEARCH-00398,"THE NAGALAND GOODS AND SERVICES TAX (4th AMENDMENT) ACT, 2020",2021-03-12,"Finance, tax & budget",Amendment,train,91.0,-0.23076923076923078,Negative,False,,,False
+RESEARCH-01670,"The Manipur State Planning Authority Act, 2021",2021-03-16,"Land, housing & urban development",Establishment of an institution,train,210.0,-0.27619047619047615,Negative,False,,,False
+RESEARCH-01703,"The Meghalaya Regulation of Gaming Act, 2021 (Act No. 9 of 2021)",2021-03-23,Other / unclassified,Principal Act (other),train,37.0,-0.10810810810810811,Neutral,False,,,False
+RESEARCH-00328,Shaheed Bhagat Singh State University Act 2021,2021-03-26,Education & universities,Establishment of an institution,train,748.0,-0.20053475935828874,Negative,False,,,False
+RESEARCH-01872,"The National Commission for Allied and Healthcare Professions Act, 2021",2021-03-28,Health & social welfare,Establishment of an institution,train,183.0,-0.1967213114754098,Negative,False,,,False
+RESEARCH-00862,"The Bihar Settlement of Taxation Disputes Act, 2021",2021-03-31,"Finance, tax & budget",Principal Act (other),train,64.0,-0.078125,Neutral,False,,,False
+RESEARCH-01198,"The Haryana Recovery of Damages to Property During Disturbance to Public Order Act, 2021 (11 of 2021)",2021-04-01,"Land, housing & urban development",Principal Act (other),train,34.0,-0.4411764705882353,Negative,False,,,False
+RESEARCH-01980,"The Punjab Abadi Deh (Record of Rights) Act, 2021. (Punjab Act No. 8 of 2021)",2021-04-01,Other / unclassified,Principal Act (other),train,65.0,-0.2769230769230769,Negative,False,,,False
+RESEARCH-02100,"The Shaheed Bhagat Singh State University Act, 2021",2021-04-01,Education & universities,Establishment of an institution,train,144.0,-0.1111111111111111,Negative,False,,,False
+RESEARCH-00556,The Arunachal Pradesh Civil Court Act 2021,2021-04-05,"Law, justice & policing",Principal Act (other),train,171.0,-0.6257309941520468,Negative,False,,,False
+RESEARCH-01994,"The Punjab Education (Posting of Teachers in Disadvantages Area) Act, 2021",2021-04-05,Education & universities,Principal Act (other),train,120.0,-0.3,Negative,False,,,False
+RESEARCH-01106,"The Gujarat Ayurved University Act, 2021",2021-04-06,Education & universities,Establishment of an institution,train,85.0,-0.24705882352941175,Neutral,False,,,False
+RESEARCH-01983,"The Punjab Anti Red Tape Act, 2021",2021-04-06,Other / unclassified,Principal Act (other),train,50.0,0.34,Positive,False,,,False
+RESEARCH-01220,"The Haryana Yog Aayog Act, 2021",2021-04-07,Other / unclassified,Principal Act (other),train,141.0,-0.10638297872340424,Negative,False,,,False
+RESEARCH-02144,"The St. Joseph's University Act, 2021",2021-04-16,Education & universities,Establishment of an institution,train,336.0,-0.7440476190476191,Negative,False,,,False
+RESEARCH-00608,"The Arunachal pradesh Ease of Doing Business Act, 2021",2021-04-27,"Industry, business & economy",Principal Act (other),train,333.0,-0.3573573573573574,Negative,False,,,False
+RESEARCH-01109,"The Gujarat Clinical Establishments (Registration and Regulation) Act, 2021",2021-05-22,Health & social welfare,Principal Act (other),train,92.0,-0.4347826086956522,Negative,False,,,False
+RESEARCH-00982,"The Contract labour (Regulation and Abolistion) (Arunachal Pradesh Amendment) Act, 2020",2021-06-08,Labour & employment,Amendment,train,44.0,-0.6136363636363636,Negative,False,,,False
+RESEARCH-01456,"The Kerala Epidemic Diseases Act, 2021",2021-06-17,Other / unclassified,Principal Act (other),train,58.0,0.12068965517241378,Neutral,False,,,False
+RESEARCH-01678,"The Medhavi Skills University, Sikkim Act, 2021",2021-06-29,Education & universities,Establishment of an institution,train,71.0,-0.16901408450704222,Neutral,False,,,False
+RESEARCH-00246,"Maharashtra Official Languages Act, 2021",2021-07-16,"Culture, language, religion & sports",Principal Act (other),train,32.0,-0.15625,Negative,False,,,False
+RESEARCH-02415,"The West Bengal Finance Act, 2021",2021-07-26,"Finance, tax & budget",Appropriation / budget,train,179.0,0.044692737430167606,Positive,False,,,False
+RESEARCH-01269,"The India International University of Legal Education and Research of the Bar Council of India Trust at Goa Act, 2021",2021-07-29,Education & universities,Establishment of an institution,train,225.0,-0.2577777777777778,Negative,False,,,False
+RESEARCH-02306,"The Uttar Pradesh State Sports University Act, 2021",2021-07-29,Education & universities,Establishment of an institution,train,191.0,-0.08900523560209422,Neutral,False,,,False
+RESEARCH-01055,"The Goa (Regulation of Film Shooting) Act, 2021",2021-07-30,Other / unclassified,Principal Act (other),train,179.0,-0.3687150837988827,Negative,False,,,False
+RESEARCH-00884,"The Bihar University of Health Sciences Act, 2021",2021-08-09,Education & universities,Establishment of an institution,train,57.0,-0.40350877192982454,Negative,False,,,False
+RESEARCH-01293,"The Inland Vessels Act, 2021",2021-08-11,Other / unclassified,Principal Act (other),train,37.0,-0.1891891891891892,Neutral,False,,,False
+RESEARCH-00972,"The Commission for Air Quality Management in National Capital Region and Adjoining Areas Act, 2021",2021-08-12,"Land, housing & urban development",Establishment of an institution,train,75.0,-0.10666666666666663,Negative,False,,,False
+RESEARCH-01289,"The Industrial Disputes (Arunachal Pradesh Amendment) Act, 2020",2021-08-24,Labour & employment,Amendment,train,110.0,-0.20000000000000004,Negative,False,,,False
+RESEARCH-02255,"The Uttar Pradesh (Third) Repealing Act,.2021",2021-08-24,Governance & public administration,Repeal,train,45.0,-0.42222222222222217,Negative,False,,,False
+RESEARCH-00142,Enrollment in Professional Course Act,2021-08-31,Other / unclassified,Principal Act (other),train,415.0,-0.4578313253012048,Negative,False,,,False
+RESEARCH-01196,"The Haryana Public Examination (Prevention of Unfair Means) Act, 2021 (25 of 2021)",2021-09-10,Education & universities,Principal Act (other),test,415.0,-0.31807228915662644,Negative,False,0.03855421686746988,0.7564982771873474,True
+RESEARCH-02173,"The Tamil Nadu State Commission for the Scheduled Castes and Scheduled Tribes Act, 2021",2021-09-22,"Culture, language, religion & sports",Establishment of an institution,test,32.0,-0.15625,Negative,False,0.125,0.8956772685050964,True
+RESEARCH-00437,"Tamil Nadu Repealing (Second) Act, 2021",2021-10-04,"Culture, language, religion & sports",Repeal,test,348.0,-0.3275862068965517,Negative,True,0.020114942528735632,1.0,False
+RESEARCH-02170,"The Tamil Nadu Repealing Act, 2021",2021-10-04,"Culture, language, religion & sports",Repeal,test,326.0,-0.4141104294478527,Negative,False,0.03987730061349693,0.9072117209434509,True
+RESEARCH-01402,"The Karnataka Prison Development Board Act, 2021",2021-10-07,"Law, justice & policing",Establishment of an institution,test,365.0,-0.1561643835616438,Negative,False,0.00821917808219178,0.8659132719039917,True
+RESEARCH-00920,"The Chanakya University Act, 2021",2021-10-11,Education & universities,Establishment of an institution,test,174.0,0.09770114942528735,Positive,False,0.0,0.8482000827789307,True
+RESEARCH-00203,"Kaushalya the Skill University Act, 2021",2021-10-20,Education & universities,Establishment of an institution,test,42.0,-0.2380952380952381,Neutral,False,0.09523809523809523,0.7977337837219238,True
+RESEARCH-01411,"The Karnataka Religious Structures (Protection) Act, 2021",2021-10-22,"Culture, language, religion & sports",Principal Act (other),test,42.0,-0.21428571428571427,Neutral,False,0.23809523809523808,0.8267894387245178,True
+RESEARCH-01912,"The Odisha Appropriation Acts(Repeal)Act, 2021",2021-11-12,"Finance, tax & budget",Appropriation / budget,test,87.0,0.13793103448275862,Positive,False,0.10344827586206896,0.8719093799591064,True
+RESEARCH-01505,"The Kerala State Medical Practitioners Act, 2021",2021-11-14,Health & social welfare,Principal Act (other),test,56.0,-0.46428571428571425,Negative,False,0.07142857142857142,0.8124605417251587,True
+RESEARCH-01455,"The Kerala Employment Guarantee Workers Welfare Fund Act, 2021",2021-11-15,Health & social welfare,Principal Act (other),test,194.0,-0.44845360824742264,Negative,False,0.08762886597938144,0.8484349846839905,True
+RESEARCH-00204,Kerala Banning of Unregulated Deposit Schemes Rules,2021-11-25,Governance & public administration,Principal Act (other),test,34.0,0.08823529411764708,Neutral,False,0.20588235294117646,0.837602436542511,True
+RESEARCH-01034,"The Farm Laws Repeal Act, 2021",2021-11-30,"Agriculture, environment & water",Repeal,test,161.0,-0.2608695652173913,Negative,False,0.043478260869565216,0.6962011456489563,True
+RESEARCH-01812,The Nagaland Appropriation (No.6) Act 2021,2021-12-01,"Finance, tax & budget",Appropriation / budget,test,171.0,-0.32748538011695905,Negative,True,0.029239766081871343,1.0000001192092896,False
+RESEARCH-01526,"The Lamrin Tech Skills University, Punjab Act, 2021",2021-12-09,Education & universities,Establishment of an institution,test,130.0,-0.15384615384615385,Neutral,False,0.046153846153846156,0.7013275027275085,True
+RESEARCH-00550,"The Arunachal Pradesh (Re-organisation of Districts) (Amendemnt) Act, 2021",2021-12-10,Other / unclassified,Amendment,test,49.0,0.14285714285714288,Neutral,False,0.2653061224489796,0.9890023469924927,True
+RESEARCH-01003,"The Dam Safety Act, 2021",2021-12-13,Other / unclassified,Principal Act (other),test,78.0,0.23076923076923075,Positive,False,0.34615384615384615,0.6678644418716431,True
+RESEARCH-02107,"The Sikkim (Re-Organization of District)Act, 2021",2021-12-13,Other / unclassified,Principal Act (other),test,180.0,0.033333333333333326,Positive,False,0.005555555555555556,0.8192343711853027,True
+RESEARCH-00053,Bihar Land Mutation (Amendment) Act- 2021,2021-12-17,"Land, housing & urban development",Amendment,test,53.0,-0.18867924528301885,Neutral,False,0.05660377358490566,0.9909737706184387,True
+RESEARCH-02218,"The Tripura Agricultural Land Leasing Act, 2021",2021-12-17,"Agriculture, environment & water",Principal Act (other),test,94.0,-0.5106382978723404,Negative,False,0.010638297872340425,0.8147565126419067,True
+RESEARCH-00752,"The Assisted Reproductive Technology (Regulation) Act, 2021",2021-12-18,Other / unclassified,Principal Act (other),test,70.0,0.02857142857142858,Positive,False,0.17142857142857143,0.5060904622077942,True
+RESEARCH-00337,"Sikkim Skill University Act, 2021",2021-12-20,Education & universities,Establishment of an institution,test,149.0,-0.3355704697986577,Neutral,False,0.03355704697986577,0.884519100189209,True
+RESEARCH-00399,"THE NAGALAND GOODS AND SERVICES TAX (5th AMENDMENT) ACT, 2021",2021-12-20,"Finance, tax & budget",Amendment,test,210.0,0.41428571428571426,Positive,True,0.014285714285714285,1.0000001192092896,False
+RESEARCH-02151,"The Surrogacy (Regulation) Act, 2021",2021-12-25,Other / unclassified,Principal Act (other),test,44.0,-0.18181818181818182,Neutral,False,0.2727272727272727,0.5829692482948303,True
+RESEARCH-00308,Punjab Right to Business Act,2022-01-03,"Industry, business & economy",Principal Act (other),test,214.0,-0.14953271028037385,Negative,False,0.037383177570093455,0.7160037755966187,True
+RESEARCH-02168,"The Tamil Nadu Public Service Commission (Additional Funcitons) Act, 2022",2022-01-31,"Culture, language, religion & sports",Establishment of an institution,test,48.0,-0.4375,Negative,False,0.08333333333333333,0.8399174213409424,True
+RESEARCH-01222,"The Himachal Pradesh Abadi Deh (Record of Rights) Act, 2021",2022-02-02,Other / unclassified,Principal Act (other),test,60.0,-0.2833333333333333,Neutral,False,0.08333333333333333,0.8031603097915649,True
+RESEARCH-01423,"The Karnataka State AYUSH University Act, 2021",2022-02-17,Education & universities,Establishment of an institution,test,107.0,-0.6355140186915887,Negative,False,0.018691588785046728,0.8721587061882019,True
+RESEARCH-01920,"The Odisha Maritime Board Act, 2020",2022-02-18,Other / unclassified,Establishment of an institution,test,289.0,-0.356401384083045,Negative,False,0.0726643598615917,0.722321629524231,True
+RESEARCH-00439,"Tamil Nadu Repealing Act, 2020",2022-03-15,"Culture, language, religion & sports",Repeal,test,76.0,-0.7631578947368421,Negative,False,0.013157894736842105,0.9261144995689392,True
+RESEARCH-01809,"The Nagaland Appropriation (No.2) Act, 2022",2022-03-28,"Finance, tax & budget",Appropriation / budget,test,75.0,-0.12,Negative,True,0.14666666666666667,1.0000001192092896,False
+RESEARCH-00258,Mizo Language Development Board Act 2022,2022-03-31,"Culture, language, religion & sports",Establishment of an institution,test,53.0,0.05660377358490565,Positive,False,0.03773584905660377,0.6024736762046814,True
+RESEARCH-01738,"The Mizoram Ease of Doing Business Act, 2022",2022-03-31,"Industry, business & economy",Principal Act (other),test,121.0,0.5371900826446281,Positive,False,0.0743801652892562,0.7090740203857422,True
+RESEARCH-02360,"The West Bengal Appropriation (No. 1) Act, 2022",2022-03-31,"Finance, tax & budget",Appropriation / budget,test,112.0,-0.48214285714285715,Negative,True,0.017857142857142856,1.0000001192092896,False
+RESEARCH-00154,"Haryana Fire and Emergency Services Act, 2022 (Haryana Act No. 14 of 2022)",2022-04-07,Governance & public administration,Principal Act (other),test,40.0,-0.47500000000000003,Negative,False,0.3,0.8382346034049988,True
+RESEARCH-01571,"The Maharashtra Local Authorities Official Language Act,2022",2022-04-07,"Culture, language, religion & sports",Principal Act (other),test,30.0,-0.36666666666666664,Negative,False,0.06666666666666667,0.9396845102310181,True
+RESEARCH-02137,"The Sports University of Haryana Act, 2022 (Haryana Act No. 21 of 2022)",2022-04-07,Education & universities,Establishment of an institution,test,305.0,0.006557377049180302,Positive,False,0.06229508196721312,0.8180235624313354,True
+RESEARCH-00158,"Haryana Prevention of Unlawful Conversion of Religion Act, 2022 (Haryana No. 16 of 2022)",2022-04-12,"Law, justice & policing",Principal Act (other),test,53.0,-0.18867924528301888,Negative,False,0.1509433962264151,0.8067777156829834,True
+RESEARCH-00268,"National Law University Tripura Act, 2022,",2022-04-18,Education & universities,Establishment of an institution,test,48.0,-0.3958333333333333,Negative,False,0.0625,0.7698642015457153,True
+RESEARCH-00996,"The Criminal Procedure (Identification) Act, 2022",2022-04-18,"Law, justice & policing",Principal Act (other),test,52.0,0.07692307692307693,Neutral,False,0.3076923076923077,0.6226052045822144,True
+RESEARCH-00336,"Sikkim Board of Indigenous Languages(Sbil), Sikkim Act 2022",2022-04-20,"Culture, language, religion & sports",Establishment of an institution,test,68.0,-0.36764705882352944,Negative,False,0.014705882352941176,0.7108832597732544,True
+RESEARCH-00561,"The Arunachal Pradesh Fiscal Responsibility and Budeget management (Amendment) Act, 2022",2022-04-27,"Finance, tax & budget",Appropriation / budget,test,44.0,0.022727272727272707,Positive,False,0.2727272727272727,0.8801928162574768,True
+RESEARCH-00603,"The Arunachal Pradesh University of Studies (Amendment) Act, 2022",2022-04-27,Education & universities,Amendment,test,101.0,-0.38613861386138615,Negative,False,0.0297029702970297,0.9331322908401489,True
+RESEARCH-01049,"The Global University Arunachal Pradesh (Amendment) Act, 2022",2022-04-27,Education & universities,Amendment,test,64.0,-0.375,Negative,False,0.09375,0.9610122442245483,True
+RESEARCH-01554,"The Maharashtra COEP Technological University Act, 2022",2022-05-10,Education & universities,Establishment of an institution,test,107.0,-0.7757009345794392,Negative,False,0.009345794392523364,0.8147770166397095,True
+RESEARCH-00715,"The Assam State Youth Commission Act, 2022",2022-05-21,Governance & public administration,Establishment of an institution,test,65.0,-0.4923076923076923,Negative,False,0.07692307692307693,0.9008656740188599,True
+RESEARCH-00780,"The Bhatkhande Sanskriti Vishwavidyalaya Act, 2022",2022-06-03,Education & universities,Establishment of an institution,test,232.0,-0.15948275862068967,Negative,False,0.01293103448275862,0.9174150228500366,True
+RESEARCH-01270,"The Indian Antarctic Act, 2022",2022-08-06,Other / unclassified,Principal Act (other),test,33.0,-0.24242424242424243,Neutral,False,0.24242424242424243,0.5449546575546265,True
+RESEARCH-01972,"The Protection of Women from Domestic Violence Act, 2005 (Bengali Version) (Central Act)",2022-08-31,Health & social welfare,Principal Act (other),test,237.0,-0.4008438818565401,Negative,False,0.06751054852320675,0.7608211636543274,True
+RESEARCH-02420,"The West Bengal Fire Services (Amendment) Act, 2022",2022-09-14,Other / unclassified,Amendment,test,207.0,-0.6473429951690821,Negative,False,0.028985507246376812,0.8184743523597717,True
+RESEARCH-00156,"Haryana Good Conduct Prisoner (Temporary Release) Act, 2022, Hindi Version",2022-09-22,"Law, justice & policing",Principal Act (other),test,103.0,-0.3592233009708738,Negative,False,0.05825242718446602,0.7629486918449402,True
+RESEARCH-01707,"The Meghalaya Ropeway Act, 2022 (Act No. 14 of 2022)",2022-09-27,Other / unclassified,Principal Act (other),test,44.0,-0.5227272727272727,Negative,False,0.045454545454545456,0.8048303127288818,True
+RESEARCH-01485,The Kerala Public Enterprises (Selection and Recruitment) Board Act 2022,2022-10-06,"Industry, business & economy",Establishment of an institution,test,50.0,-0.42,Negative,False,0.06,0.8712761402130127,True
+RESEARCH-00755,"The Auniati University Act, 2022",2022-10-13,Education & universities,Establishment of an institution,test,45.0,-0.3111111111111111,Negative,False,0.1111111111111111,0.8868116140365601,True
+RESEARCH-00297,"Pragjyotishpur University Act, 2022",2022-10-17,Education & universities,Establishment of an institution,test,34.0,-0.1764705882352941,Negative,False,0.029411764705882353,0.8604799509048462,True
+RESEARCH-02452,"The West Bengal Panchayat Elections (Amendment) Act, 2022",2022-11-01,Governance & public administration,Amendment,test,167.0,-0.40718562874251496,Negative,False,0.09580838323353294,0.8448789715766907,True
+RESEARCH-00410,"Tamil Nadu Apartment Ownership Act, 2022",2022-12-15,"Agriculture, environment & water",Principal Act (other),test,117.0,-0.24786324786324787,Negative,False,0.05982905982905983,0.8830767869949341,True
+RESEARCH-00772,"The Bengaluru Metropolitan Land Transport Authority Act, 2022",2023-01-12,"Land, housing & urban development",Establishment of an institution,test,52.0,-0.49999999999999994,Negative,False,0.038461538461538464,0.7367277145385742,True
+RESEARCH-01110,"The Gujarat Compulsory Teaching and Learning of Gujarati Language Act, 2023",2023-03-03,"Culture, language, religion & sports",Principal Act (other),test,36.0,-0.6666666666666666,Negative,False,0.0,0.8607635498046875,True
+RESEARCH-01124,"The Gujarat Public Examination (Prevention of Unfair Means) Act, 2023",2023-03-03,Education & universities,Principal Act (other),test,80.0,-0.6125,Negative,False,0.0375,0.7406513094902039,True
+RESEARCH-01360,"The Kannada Language Comprehensive Development Act, 2022",2023-03-10,"Culture, language, religion & sports",Principal Act (other),test,71.0,-0.5633802816901409,Negative,False,0.04225352112676056,0.8002895712852478,True
+RESEARCH-00765,"The Bengal Districts (Repealing) Act, 2022",2023-03-13,Governance & public administration,Repeal,test,123.0,-0.45528455284552843,Negative,False,0.024390243902439025,0.8534031510353088,True
+RESEARCH-02417,"The West Bengal Finance Act, 2023",2023-03-17,"Finance, tax & budget",Appropriation / budget,test,179.0,-0.1843575418994413,Negative,True,0.0111731843575419,1.0,False
+RESEARCH-00458,"The Acharya University Act, 2022",2023-03-31,Education & universities,Establishment of an institution,test,305.0,-0.13114754098360654,Negative,False,0.019672131147540985,0.8929622173309326,True
+RESEARCH-00567,"The Arunachal Pradesh Goods Tax (Amendment) Act, 2023",2023-03-31,"Finance, tax & budget",Amendment,test,33.0,-0.24242424242424238,Negative,False,0.12121212121212122,0.9527649879455566,True
+RESEARCH-01802,The Nagaland Appropriation (No.1) Act 2023,2023-04-01,"Finance, tax & budget",Appropriation / budget,test,114.0,-0.7456140350877193,Negative,True,0.008771929824561403,1.0000001192092896,False
+RESEARCH-02354,"The West Bengal Agricultural Income-tax (Notices) (Repealing) Act, 2023",2023-04-10,"Finance, tax & budget",Repeal,test,343.0,-0.48104956268221566,Negative,False,0.03206997084548105,0.825131893157959,True
+RESEARCH-02440,"The West Bengal Maintenance of Public Order (Amendment) Act, 2023",2023-04-10,"Land, housing & urban development",Amendment,test,70.0,-0.2714285714285714,Negative,False,0.22857142857142856,0.8129231929779053,True
+RESEARCH-01749,"The Mizoram Land Revenue Act, 2013",2023-04-21,"Land, housing & urban development",Principal Act (other),test,188.0,-0.2553191489361702,Negative,False,0.031914893617021274,0.9280986785888672,True
+RESEARCH-02351,"The West Bengal Additional Tax and One- Time Tax on Motor Vehicles (Amendment) Act, 2024",2023-04-23,"Finance, tax & budget",Amendment,test,62.0,-0.564516129032258,Negative,False,0.04838709677419355,0.8451074361801147,True
+RESEARCH-00504,"The Andhra Pradesh Grama Sachivalayams and Ward Sachivalayams (GSWS) Act, 2023",2023-05-01,"Land, housing & urban development",Principal Act (other),test,227.0,-0.5726872246696035,Negative,False,0.013215859030837005,0.8032717108726501,True
+RESEARCH-00438,"Tamil Nadu Repealing (Second) Act, 2023",2023-05-03,"Culture, language, religion & sports",Repeal,test,138.0,0.036231884057971064,Positive,True,0.10144927536231885,1.0,False
+RESEARCH-02331,The Uttarakhand Qualifying Service for Pension and Validation ACT 2022,2023-05-03,Health & social welfare,Amendment,test,182.0,0.32417582417582425,Positive,False,0.1813186813186813,0.9697229862213135,True
+RESEARCH-00519,"The Andhra Pradesh Para Veterinary and Allied Council Act, 2023",2023-05-04,Governance & public administration,Establishment of an institution,test,128.0,-0.625,Negative,False,0.0234375,0.8235684633255005,True
+RESEARCH-01522,"The Kolkata Municipal Corporation (Amendment) Act, 2022",2023-05-31,"Land, housing & urban development",Amendment,test,49.0,0.061224489795918324,Positive,False,0.061224489795918366,0.7706692218780518,True
+RESEARCH-01552,"The Maharashtra Agricultural Land Leasing Act, 2017",2023-06-27,"Agriculture, environment & water",Principal Act (other),test,74.0,-0.32432432432432434,Negative,False,0.02702702702702703,0.8183788061141968,True
+RESEARCH-01562,"The Maharashtra Essential Services Maintenance Act, 2023",2023-06-30,"Land, housing & urban development",Principal Act (other),test,100.0,-0.2,Negative,False,0.12,0.8383342027664185,True
+RESEARCH-01374,"The Karnataka Conduct of Government Litigation Act, 2023",2023-07-27,Other / unclassified,Principal Act (other),test,72.0,0.02777777777777779,Neutral,False,0.2222222222222222,0.7821025848388672,True
+RESEARCH-01821,The Nagaland Fire and Emergency Service Act 2021 (Act No.5 of 2023),2023-07-27,Governance & public administration,Principal Act (other),test,181.0,-0.01657458563535913,Neutral,False,0.1712707182320442,0.757280707359314,True
+RESEARCH-01060,"The Goa Ancient and Historical Records, Acquisition and Preservation Act, 2023",2023-08-10,"Culture, language, religion & sports",Principal Act (other),test,345.0,-0.408695652173913,Negative,False,0.017391304347826087,0.7072847485542297,True
+RESEARCH-01021,"The Digital Personal Data Protection Act, 2023",2023-08-11,Other / unclassified,Principal Act (other),test,197.0,0.07614213197969544,Positive,False,0.025380710659898477,0.6416282057762146,True
+RESEARCH-01890,"The National Nursing and Midwifery Commission Act, 2023",2023-08-12,Health & social welfare,Establishment of an institution,test,172.0,0.08139534883720934,Positive,False,0.10465116279069768,0.7385945320129395,True
+RESEARCH-01568,"The Maharashtra Industry, Trade and Investment Facilitation Act, 2023",2023-08-14,"Industry, business & economy",Principal Act (other),test,90.0,-0.5222222222222223,Negative,False,0.0,0.7169380187988281,True
+RESEARCH-01126,"The Gujarat Public Universities Act, 2023",2023-09-25,Education & universities,Establishment of an institution,test,55.0,-0.14545454545454545,Neutral,False,0.16363636363636364,0.9086172580718994,True
+RESEARCH-00558,"The Arunachal Pradesh Court Fees Act, 2023",2023-09-27,"Law, justice & policing",Principal Act (other),test,109.0,-0.1743119266055046,Negative,False,0.06422018348623854,0.8440976738929749,True
+RESEARCH-00552,"The Arunachal Pradesh Airport area Planning and Development Authority Act, 2023",2023-09-29,"Land, housing & urban development",Establishment of an institution,test,255.0,-0.18823529411764706,Negative,False,0.01568627450980392,0.7039066553115845,True
+RESEARCH-02424,"The West Bengal Goods and Services Tax (Amendment) Act, 2023",2023-09-29,"Finance, tax & budget",Amendment,test,40.0,-0.175,Negative,False,0.175,0.8725129961967468,True
+RESEARCH-01027,"The Driems University Odisha Act, 2022",2023-10-10,Education & universities,Establishment of an institution,test,204.0,-0.5882352941176471,Negative,False,0.0,0.7705929279327393,True
+RESEARCH-00505,"The Andhra Pradesh Guaranteed Pension System Act, 2023",2023-10-20,Health & social welfare,Principal Act (other),test,213.0,-0.591549295774648,Negative,False,0.014084507042253521,0.7757288813591003,True
+RESEARCH-00529,"The Andhra Pradesh Special Security Group Act, 2023",2023-10-26,"Law, justice & policing",Principal Act (other),test,399.0,-0.23308270676691728,Negative,False,0.02756892230576441,0.8854866623878479,True
+RESEARCH-02435,"The West Bengal Land Laws (Second Repealing) Act, 2023",2023-10-30,"Land, housing & urban development",Repeal,test,71.0,-0.2535211267605634,Negative,False,0.04225352112676056,0.7941280007362366,True
+RESEARCH-00899,"The Bongaigaon University Act, 2023",2023-12-01,Education & universities,Establishment of an institution,test,77.0,-0.5844155844155844,Negative,False,0.07792207792207792,0.7534281015396118,True
+RESEARCH-01865,"The Nagaon University Act, 2023",2023-12-01,Education & universities,Establishment of an institution,test,50.0,-0.54,Negative,False,0.06,0.7834330797195435,True
+RESEARCH-02104,"The Sibsagar University Act, 2023",2023-12-01,Education & universities,Establishment of an institution,test,54.0,-0.33333333333333337,Negative,False,0.018518518518518517,0.8162927627563477,True
+RESEARCH-02267,"The Uttar Pradesh Inland Waterways Authority Act, 2023",2023-12-08,"Agriculture, environment & water",Establishment of an institution,test,202.0,0.2277227722772277,Positive,False,0.17326732673267325,0.8626658916473389,True
+RESEARCH-00055,Bihar Logistic Policy,2023-12-09,"Infrastructure, energy & transport",Policy document,test,61.0,-0.21311475409836067,Negative,False,0.06557377049180328,0.7549082040786743,True
+RESEARCH-01306,"The Jagannath Barooah University Act, 2023",2023-12-12,Education & universities,Establishment of an institution,test,48.0,-0.5625,Negative,False,0.0,0.8712390661239624,True
+RESEARCH-02433,"The West Bengal Labour Welfare Fund (Amendment) Act, 2023",2023-12-13,Health & social welfare,Amendment,test,42.0,-0.19047619047619047,Negative,False,0.14285714285714285,0.8175731897354126,True
+RESEARCH-00773,"The Bharatiya Nagarik Suraksha Sanhita, 2023",2023-12-23,"Law, justice & policing",Code / consolidating law,test,192.0,-0.20833333333333331,Negative,False,0.16666666666666666,0.8399429321289062,True
+RESEARCH-00775,"The Bharatiya Nyaya Sanhita, 2023",2023-12-25,"Law, justice & policing",Code / consolidating law,test,140.0,-0.15714285714285714,Negative,False,0.07142857142857142,0.7328492999076843,True
+RESEARCH-00777,"The Bharatiya Sakshya Adhiniyam, 2023",2023-12-25,"Law, justice & policing",Principal Act (other),test,334.0,0.08383233532934131,Positive,False,0.1497005988023952,0.9105170965194702,True
+RESEARCH-01988,"The Punjab Canal and Drainage Act, 2023",2023-12-27,Other / unclassified,Principal Act (other),test,38.0,0.10526315789473684,Positive,False,0.10526315789473684,0.7408544421195984,True
+RESEARCH-01957,"The Press and Registration of Periodicals Act, 2023",2023-12-28,Other / unclassified,Principal Act (other),test,63.0,-0.4285714285714286,Negative,False,0.25396825396825395,0.5707148313522339,True
+RESEARCH-00709,"The Assam State Commission for Safai Karmacharis Act, 2023",2024-01-04,Governance & public administration,Establishment of an institution,test,250.0,-0.488,Negative,False,0.044,0.8208105564117432,True
+RESEARCH-00052,Bihar Laghu Udyami Yojna,2024-01-16,Other / unclassified,Principal Act (other),test,180.0,-0.25,Neutral,False,0.03333333333333333,0.5810495615005493,True
+RESEARCH-00244,"Maharashtra Marathi Bhasha Vidyapeeth Act, 2023",2024-01-19,Education & universities,Establishment of an institution,test,521.0,-0.35700575815738955,Negative,False,0.07485604606525911,0.8009017705917358,True
+RESEARCH-00249,"Maharashtra Private Universities (Establishment and Regulation) Act, 2023",2024-01-19,Education & universities,Establishment of an institution,test,62.0,-0.11290322580645162,Neutral,False,0.20967741935483872,0.8804370164871216,True
+RESEARCH-01601,"The Maharashtra State Board of Art Education Act, 2023",2024-01-19,Education & universities,Establishment of an institution,test,181.0,-0.09944751381215472,Negative,False,0.10497237569060773,0.7117631435394287,True
+RESEARCH-00562,"The Arunachal Pradesh Fiscal Responsibility and Budget Management (Amendment) Act, 2024",2024-02-23,"Finance, tax & budget",Appropriation / budget,test,186.0,0.20967741935483872,Positive,False,0.15053763440860216,0.9279978275299072,True
+RESEARCH-01604,"The Maharashtra State Reservation for Socially and Educationally Backward Classes Act, 2024",2024-02-26,Education & universities,Principal Act (other),test,50.0,-0.45999999999999996,Negative,False,0.0,0.7999657392501831,True
+RESEARCH-00798,"The Bihar Control of Crimes Act, 2024",2024-03-14,"Law, justice & policing",Principal Act (other),test,202.0,-0.42574257425742573,Negative,False,0.0297029702970297,0.7608832120895386,True
+RESEARCH-00871,The Bihar State Minorities Commission Amendment ACT 2024,2024-03-14,Social groups & identity,Amendment,test,184.0,-0.14130434782608697,Negative,False,0.059782608695652176,0.8420971632003784,True
+RESEARCH-00713,"The Assam State School Education Board Act, 2024",2024-03-15,Education & universities,Establishment of an institution,test,93.0,-0.1827956989247312,Neutral,False,0.06451612903225806,0.8971612453460693,True
+RESEARCH-01521,"The Kokrajhar University Act, 2024",2024-03-15,Education & universities,Establishment of an institution,test,289.0,0.10034602076124566,Positive,False,0.04498269896193772,0.8573638200759888,True
+RESEARCH-00143,"Export Promotion Policy, 2024",2024-03-16,"Industry, business & economy",Policy document,test,211.0,-0.05213270142180099,Negative,False,0.11374407582938388,0.5328613519668579,True
+RESEARCH-02451,"The West Bengal Panchayat Act, 1973 (Bengali Version) (Central Act)",2024-04-12,Governance & public administration,Principal Act (other),test,73.0,-0.32876712328767127,Negative,False,0.1095890410958904,0.85764080286026,True
+RESEARCH-02449,"The West Bengal Non- Trading Corporations (Amendment) Act, 2024",2024-04-22,Other / unclassified,Amendment,test,33.0,-0.48484848484848486,Negative,False,0.06060606060606061,0.821752667427063,True
+RESEARCH-02442,"The West Bengal Motor Vehicles Tax (Amendment) Act, 2024",2024-04-23,"Finance, tax & budget",Amendment,test,30.0,-0.10000000000000003,Negative,False,0.1,0.8898912668228149,True
+RESEARCH-01798,The Nagaland Anatomy Act 2024,2024-06-15,Other / unclassified,Principal Act (other),test,307.0,-0.511400651465798,Negative,False,0.05537459283387622,0.7120234370231628,True
+RESEARCH-00026,"Bharatiya Nagarik Suraksha Sanhita, 2023",2024-07-01,"Law, justice & policing",Code / consolidating law,test,108.0,-0.2777777777777778,Negative,False,0.1111111111111111,0.8466252088546753,True
+RESEARCH-02190,"The Telangana Institute of Medical Sciences Act, 2024",2024-07-06,Education & universities,Establishment of an institution,test,55.0,-0.6363636363636365,Negative,False,0.0,0.8256343603134155,True
+RESEARCH-02302,"The Uttar Pradesh State Capital Region and Other Regions Development Authority Act, 2024",2024-08-06,"Land, housing & urban development",Establishment of an institution,test,380.0,-0.2657894736842105,Negative,False,0.060526315789473685,0.8368687629699707,True
+RESEARCH-00248,"Maharashtra Private Skills Universities (Establishment and Regulation) Act, 2024",2024-08-07,Education & universities,Establishment of an institution,test,191.0,-0.2827225130890052,Negative,False,0.04712041884816754,0.7877026796340942,True
+RESEARCH-01067,"The Goa Court-Fees Act, 2024",2024-08-27,"Law, justice & policing",Principal Act (other),test,174.0,-0.5287356321839081,Negative,False,0.04597701149425287,0.6803979873657227,True
+RESEARCH-01825,"The Nagaland Goods & Services Tax (Eight Amendment) Act, 2024",2024-08-31,"Finance, tax & budget",Amendment,test,209.0,0.13397129186602874,Positive,False,0.16267942583732056,0.9597120881080627,True
+RESEARCH-01369,"The Karnataka Cine and Cultural Activists (Welfare) Act, 2024",2024-09-24,Health & social welfare,Principal Act (other),test,123.0,-0.7723577235772358,Negative,False,0.0,0.7119721174240112,True
+RESEARCH-00742,"The Assam Veterinary and Fishery University Act, 2024",2024-09-27,Education & universities,Establishment of an institution,test,183.0,-0.5956284153005464,Negative,False,0.02185792349726776,0.7422116994857788,True
+RESEARCH-01070,"The Goa Escheats, Forfeiture and Bona Vacantia Act, 2024",2024-10-06,Other / unclassified,Principal Act (other),test,61.0,-0.4426229508196721,Negative,False,0.01639344262295082,0.7000951766967773,True
+RESEARCH-01840,"The Nagaland Municipal (Amendment) Act, 2024",2024-11-30,"Land, housing & urban development",Amendment,test,37.0,-0.6216216216216217,Negative,False,0.02702702702702703,0.8380056619644165,True
+RESEARCH-02463,"The West Bengal Scheduled Castes, Scheduled Tribes and Other Backward Classes Development and Finance Corporation (Amendment) Act, 2024",2024-12-10,"Finance, tax & budget",Amendment,test,40.0,-0.5,Negative,False,0.05,0.8711374998092651,True
+RESEARCH-00779,"The Bharatiya Vayuyan Adhiniyam, 2024",2024-12-11,Other / unclassified,Principal Act (other),test,34.0,-0.29411764705882354,Negative,False,0.11764705882352941,0.9176093339920044,True
+RESEARCH-01440,"The Karnataka Tourism Ropeways Act, 2024",2025-01-09,"Industry, business & economy",Principal Act (other),test,50.0,-0.42,Negative,False,0.0,0.7618438005447388,True
+RESEARCH-00910,"The Carriage of Goods by Sea Act, 2025",2025-02-15,Other / unclassified,Principal Act (other),test,276.0,-0.15579710144927533,Negative,False,0.010869565217391304,0.720603346824646,True
+RESEARCH-01246,"The Himachal Pradesh Recruitment and Conditions of Service of Government Employees Act, 2024",2025-02-20,Other / unclassified,Principal Act (other),test,61.0,-0.2622950819672131,Negative,False,0.06557377049180328,0.7872403860092163,True
+RESEARCH-00707,"The Assam Shops and Establishment Act, 2022",2025-03-21,Other / unclassified,Principal Act (other),test,43.0,-0.32558139534883723,Negative,False,0.06976744186046512,0.8023394346237183,True
+RESEARCH-00450,"The ""Tribhuvan"" Sahkari University Act, 2025",2025-04-03,Education & universities,Establishment of an institution,test,67.0,-0.23880597014925373,Negative,False,0.208955223880597,0.7812705039978027,True
+RESEARCH-01266,"The Immigration and Foreigners Act, 2025",2025-04-04,Other / unclassified,Principal Act (other),test,55.0,0.054545454545454564,Positive,False,0.10909090909090909,0.5882045030593872,True
+RESEARCH-01939,"The Odisha State Highways Authority Act, 2025",2025-04-21,"Infrastructure, energy & transport",Establishment of an institution,test,55.0,-0.2545454545454545,Negative,False,0.07272727272727272,0.8431771993637085,True
+RESEARCH-00247,"Maharashtra Private Placement Agencies (Regulation) Act, 2025",2025-04-28,Other / unclassified,Principal Act (other),test,59.0,-0.4576271186440678,Negative,False,0.06779661016949153,0.8441452383995056,True
+RESEARCH-01260,"The Howrah Municipal Corporation (Amendment) Act, 2021",2025-04-30,"Land, housing & urban development",Amendment,test,192.0,-0.5260416666666666,Negative,False,0.020833333333333332,0.6325929164886475,True
+RESEARCH-02403,"The West Bengal Commission for Backward Classes (Amendment) Act, 2018",2025-04-30,Social groups & identity,Amendment,test,79.0,-0.5316455696202531,Negative,False,0.012658227848101266,0.8737610578536987,True
+RESEARCH-02474,"The West Bengal Taxation Tribunal (Amendment) Act, 2022",2025-04-30,"Finance, tax & budget",Amendment,test,199.0,-0.3969849246231156,Negative,False,0.07537688442211055,0.8388639688491821,True
+RESEARCH-02153,"The Swami Vivekanand University Act, 2025",2025-06-02,Education & universities,Establishment of an institution,test,47.0,-0.08510638297872342,Negative,False,0.14893617021276595,0.9852520227432251,True
+RESEARCH-00889,"The Bills of Lading Act, 2025",2025-06-17,Other / unclassified,Principal Act (other),test,224.0,0.16964285714285715,Positive,False,0.13392857142857142,0.6235709190368652,True
+RESEARCH-01093,"The Goa Suits Valuation Act, 2025",2025-07-23,Other / unclassified,Principal Act (other),test,40.0,-0.04999999999999999,Negative,False,0.175,0.7115775942802429,True
+RESEARCH-02055,"The Rayat Bahra Professional University, Hoshiarpur Act, 2025",2025-07-30,Education & universities,Establishment of an institution,test,41.0,-0.17073170731707318,Negative,False,0.04878048780487805,0.8331030607223511,True
+RESEARCH-00903,"The C.G.C. University, Mohali Act, 2025",2025-08-09,Education & universities,Establishment of an institution,test,35.0,-0.5428571428571428,Negative,False,0.0,0.7969363927841187,True
+RESEARCH-01279,The Indian Ports Act 2025,2025-08-21,"Infrastructure, energy & transport",Principal Act (other),test,55.0,-0.2545454545454545,Negative,False,0.07272727272727272,0.8068917989730835,True
+RESEARCH-02292,"The Uttar Pradesh Repealing Act, 2025",2025-08-21,Governance & public administration,Repeal,test,179.0,-0.08379888268156421,Negative,True,0.08379888268156424,1.0,False
+RESEARCH-02299,"The Uttar Pradesh Shri Bankey Bihari Ji Temple Trust, Act, 2025",2025-08-21,"Finance, tax & budget",Principal Act (other),test,49.0,-0.2857142857142857,Negative,False,0.0,0.7776621580123901,True
+RESEARCH-01968,"The Promotion and Regulation of Online Gaming Act, 2025",2025-08-22,Other / unclassified,Principal Act (other),test,39.0,-0.3846153846153846,Negative,False,0.20512820512820512,0.7738947868347168,True
+RESEARCH-01709,"The Meghalaya Shops and Establishment Act, 2025 (Act No. 13 of 2025)",2025-10-02,Other / unclassified,Principal Act (other),test,168.0,-0.3928571428571429,Negative,False,0.02976190476190476,0.8298068046569824,True
+RESEARCH-01699,"The Meghalaya Private Colleges (Promotion and Regulation) Act, 2025 (Act No. 20 of 2025)",2025-10-28,Education & universities,Establishment of an institution,test,61.0,-0.4918032786885246,Negative,False,0.0,0.7859084010124207,True
+RESEARCH-01221,"The Health Security Se National Security Cess Act, 2025",2025-12-15,"Finance, tax & budget",Principal Act (other),test,452.0,0.0752212389380531,Positive,False,0.048672566371681415,0.6553372144699097,True
+RESEARCH-02262,"The Uttar Pradesh Entitlement to Pension and Validation Act, 2025",2026-01-02,Health & social welfare,Amendment,test,190.0,-0.2263157894736842,Negative,False,0.06842105263157895,0.9017852544784546,True
+RESEARCH-02293,"The Uttar Pradesh Rural Abadi Records Act, 2025",2026-01-02,"Culture, language, religion & sports",Principal Act (other),test,55.0,-0.38181818181818183,Negative,False,0.05454545454545454,0.7328335046768188,True
+RESEARCH-00911,"The Central Armed Police Forces (General Administration) Act, 2026",2026-04-09,"Law, justice & policing",Principal Act (other),test,67.0,-0.29850746268656714,Negative,False,0.1791044776119403,0.7411897778511047,True
+RESEARCH-00431,Tamil Nadu Payment of Salaries Act,2026-04-22,"Culture, language, religion & sports",Principal Act (other),test,260.0,-0.4192307692307693,Negative,False,0.03461538461538462,0.7156239748001099,True
+RESEARCH-01444,"The Kerala (Alteration of Name) Act, 2026",2026-08-14,"Culture, language, religion & sports",Principal Act (other),test,342.0,-0.2865497076023392,Negative,False,0.011695906432748537,0.7524900436401367,True

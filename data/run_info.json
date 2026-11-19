@@ -1,0 +1,25 @@
+{
+ "run_tag": "v2_0_original_labels",
+ "embedder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+ "min_relevant": 30,
+ "train_frac": 0.8,
+ "n_train": 637,
+ "n_test": 159,
+ "noise_ceiling_R2": 0.8942188955506514,
+ "label_mode": "original",
+ "version": "2.0",
+ "gold_and_filter": {
+  "label_mode": "original",
+  "gold_n": 300,
+  "gold_relevant_rate": 0.16333333333333333,
+  "gold_relevant_ci": [
+   0.12580582169498175,
+   0.2093740878368269
+  ],
+  "stance_agreement_on_relevant": 0.3877551020408163,
+  "filter_features": "tfidf+hand+SBERT",
+  "filter_cv_AUC": 0.7886820066672086,
+  "filter_cv_AP": 0.4742712768860085
+ },
+ "shrink_tau2": 0.05848444455107195
+}

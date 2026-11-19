@@ -1,0 +1,1 @@
+window.onhashchange=render;render();
